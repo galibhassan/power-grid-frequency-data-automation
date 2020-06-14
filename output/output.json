@@ -1,0 +1,4197 @@
+{
+  "sha": "e297b8df069ca781f392d408513a58bd6714b93c",
+  "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/e297b8df069ca781f392d408513a58bd6714b93c",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "409dd7ae0379ce9054da37aa42abc3e927c1356f",
+      "size": 31,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/409dd7ae0379ce9054da37aa42abc3e927c1356f"
+    },
+    {
+      "path": "Continental Europe",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "844678b9968b43e5d8e2ca62c55f60f99c70148b",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/844678b9968b43e5d8e2ca62c55f60f99c70148b"
+    },
+    {
+      "path": "Continental Europe/France",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "946d25872e0b5497f3961f7dbbefba6b0dcab584",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/946d25872e0b5497f3961f7dbbefba6b0dcab584"
+    },
+    {
+      "path": "Continental Europe/France/2014",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "403d271f01b7482430a917111a4fe127a573acc6",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/403d271f01b7482430a917111a4fe127a573acc6"
+    },
+    {
+      "path": "Continental Europe/France/2014/10",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fd8695a57656d497fb52b228a37294ac2842630a",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/fd8695a57656d497fb52b228a37294ac2842630a"
+    },
+    {
+      "path": "Continental Europe/France/2014/10/2014_10.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7429f393c1dbaa58396be59d3045247827ddd725",
+      "size": 1242213,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/7429f393c1dbaa58396be59d3045247827ddd725"
+    },
+    {
+      "path": "Continental Europe/France/2014/10/2014_10.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f3f99fb2bad4ad1b2383da2ba881988cb48455c",
+      "size": 171872,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/8f3f99fb2bad4ad1b2383da2ba881988cb48455c"
+    },
+    {
+      "path": "Continental Europe/France/2014/11",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "617430ca7c4c496da872a3b3ba603ab983683ed3",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/617430ca7c4c496da872a3b3ba603ab983683ed3"
+    },
+    {
+      "path": "Continental Europe/France/2014/11/2014_11.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d61e43ac93734f56fed811abeebc379970701db1",
+      "size": 1196340,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/d61e43ac93734f56fed811abeebc379970701db1"
+    },
+    {
+      "path": "Continental Europe/France/2014/11/2014_11.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cde0b28178102bcb4945daab3d9414dc286f35ff",
+      "size": 170749,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/cde0b28178102bcb4945daab3d9414dc286f35ff"
+    },
+    {
+      "path": "Continental Europe/France/2014/12",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a9eaa98def2d9ede73de3fd6020631958329171d",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/a9eaa98def2d9ede73de3fd6020631958329171d"
+    },
+    {
+      "path": "Continental Europe/France/2014/12/2014_12.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21f9d1f5656b10db0ca2395e6bc563402ec8d6e7",
+      "size": 1232454,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/21f9d1f5656b10db0ca2395e6bc563402ec8d6e7"
+    },
+    {
+      "path": "Continental Europe/France/2014/12/2014_12.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd370fa2fd3381fdf8f17dc4d2b2ee2426fe506c",
+      "size": 169546,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/bd370fa2fd3381fdf8f17dc4d2b2ee2426fe506c"
+    },
+    {
+      "path": "Continental Europe/France/2015",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d8090e7fbe04d53a181415ec347fc38386dd96d1",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/d8090e7fbe04d53a181415ec347fc38386dd96d1"
+    },
+    {
+      "path": "Continental Europe/France/2015/01",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "43e867f091372c80699f5bbf3de5570e0855aa55",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/43e867f091372c80699f5bbf3de5570e0855aa55"
+    },
+    {
+      "path": "Continental Europe/France/2015/01/2015_01.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d21ac95910046a49ea4b8b403820745c1a8aa8d2",
+      "size": 1236831,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/d21ac95910046a49ea4b8b403820745c1a8aa8d2"
+    },
+    {
+      "path": "Continental Europe/France/2015/01/2015_01.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "24ab072b425693de05ea5d5c8775768d9c8d5ffb",
+      "size": 170881,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/24ab072b425693de05ea5d5c8775768d9c8d5ffb"
+    },
+    {
+      "path": "Continental Europe/France/2015/02",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f5fd629fd005c2a4ed1dc498985a7634717b6434",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/f5fd629fd005c2a4ed1dc498985a7634717b6434"
+    },
+    {
+      "path": "Continental Europe/France/2015/02/2015_02.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5779d1193e15c89db0982732a7475ba941f8163e",
+      "size": 1120555,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/5779d1193e15c89db0982732a7475ba941f8163e"
+    },
+    {
+      "path": "Continental Europe/France/2015/02/2015_02.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31a0b0ee6e78032a36555c91ae7e57ebcdce7b2a",
+      "size": 171353,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/31a0b0ee6e78032a36555c91ae7e57ebcdce7b2a"
+    },
+    {
+      "path": "Continental Europe/France/2015/03",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "64d23f6e61398924f6d222a996964367b607e575",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/64d23f6e61398924f6d222a996964367b607e575"
+    },
+    {
+      "path": "Continental Europe/France/2015/03/2015_03.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b63eb77af3f3fc59817b2fdce882a3d96fed1383",
+      "size": 1240020,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/b63eb77af3f3fc59817b2fdce882a3d96fed1383"
+    },
+    {
+      "path": "Continental Europe/France/2015/03/2015_03.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0bef27a3b84c33dfdc183693eeb4463186d92ea",
+      "size": 171846,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/a0bef27a3b84c33dfdc183693eeb4463186d92ea"
+    },
+    {
+      "path": "Continental Europe/France/2015/04",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9c872178afea261949fc2b5b51f37dff2cd71c07",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/9c872178afea261949fc2b5b51f37dff2cd71c07"
+    },
+    {
+      "path": "Continental Europe/France/2015/04/2015_04.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "333e2cefd45e2f0619f19a7946bc56ba7ba7cfe4",
+      "size": 1196327,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/333e2cefd45e2f0619f19a7946bc56ba7ba7cfe4"
+    },
+    {
+      "path": "Continental Europe/France/2015/04/2015_04.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "53f0408c228b573e136a91282ad9c4625d13d9d4",
+      "size": 169220,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/53f0408c228b573e136a91282ad9c4625d13d9d4"
+    },
+    {
+      "path": "Continental Europe/France/2015/05",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0fc61893c81ff1c460b2e4db7eafcb218ee08a6d",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/0fc61893c81ff1c460b2e4db7eafcb218ee08a6d"
+    },
+    {
+      "path": "Continental Europe/France/2015/05/2015_05.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d36daf92f6c8ff8343df203a5fdd07b6750fa725",
+      "size": 1231812,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/d36daf92f6c8ff8343df203a5fdd07b6750fa725"
+    },
+    {
+      "path": "Continental Europe/France/2015/05/2015_05.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b16dcc305695dca23458f03b15dd3b1d8b365d46",
+      "size": 166783,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/b16dcc305695dca23458f03b15dd3b1d8b365d46"
+    },
+    {
+      "path": "Continental Europe/France/2015/06",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2869bc19dd1394b70ad4b4a01918838f10e084b4",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/2869bc19dd1394b70ad4b4a01918838f10e084b4"
+    },
+    {
+      "path": "Continental Europe/France/2015/06/2015_06.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29849e58d83d5d022fa72c18a03acc84580a72da",
+      "size": 1193734,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/29849e58d83d5d022fa72c18a03acc84580a72da"
+    },
+    {
+      "path": "Continental Europe/France/2015/06/2015_06.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51261a7772f49d664a3e478ec6f4aabf726aa89f",
+      "size": 165372,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/51261a7772f49d664a3e478ec6f4aabf726aa89f"
+    },
+    {
+      "path": "Continental Europe/France/2015/07",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "328d1dcf9972f8e847aacbea159caf2df5c650aa",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/328d1dcf9972f8e847aacbea159caf2df5c650aa"
+    },
+    {
+      "path": "Continental Europe/France/2015/07/2015_07.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1338484426933c944514ae004900e76211cb6a2e",
+      "size": 1226691,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/1338484426933c944514ae004900e76211cb6a2e"
+    },
+    {
+      "path": "Continental Europe/France/2015/07/2015_07.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3689f7da61ef5ec2f0cd242d7f8d9c44f351555",
+      "size": 164149,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/c3689f7da61ef5ec2f0cd242d7f8d9c44f351555"
+    },
+    {
+      "path": "Continental Europe/France/2015/08",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e9791da721ffefbbd4c61407779cf4fc7c715156",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/e9791da721ffefbbd4c61407779cf4fc7c715156"
+    },
+    {
+      "path": "Continental Europe/France/2015/08/2015_08.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d861fbd5c3feeef1a6ac5b45c0f6d64d850dddae",
+      "size": 1223575,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/d861fbd5c3feeef1a6ac5b45c0f6d64d850dddae"
+    },
+    {
+      "path": "Continental Europe/France/2015/08/2015_08.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cfdcbc4e9c8661bb38a1a3f606a6d06840c66c39",
+      "size": 162238,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/cfdcbc4e9c8661bb38a1a3f606a6d06840c66c39"
+    },
+    {
+      "path": "Continental Europe/France/2015/09",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cb879c1424072cdef60724ff91a71a6824e1220f",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/cb879c1424072cdef60724ff91a71a6824e1220f"
+    },
+    {
+      "path": "Continental Europe/France/2015/09/2015_09.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49db75c2ec2d181c53f6f7f604c2deef3a1c7a66",
+      "size": 1195993,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/49db75c2ec2d181c53f6f7f604c2deef3a1c7a66"
+    },
+    {
+      "path": "Continental Europe/France/2015/09/2015_09.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ff0289dea27928372259b57e9313bfb9a6b631d",
+      "size": 166252,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/6ff0289dea27928372259b57e9313bfb9a6b631d"
+    },
+    {
+      "path": "Continental Europe/France/2015/10",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "70fce7e414ec11b2a831aa10b37050fa75b15066",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/70fce7e414ec11b2a831aa10b37050fa75b15066"
+    },
+    {
+      "path": "Continental Europe/France/2015/10/2015_10.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d854d658dd2e4edc086e8b6ae15e7446a46f3759",
+      "size": 1238411,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/d854d658dd2e4edc086e8b6ae15e7446a46f3759"
+    },
+    {
+      "path": "Continental Europe/France/2015/10/2015_10.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "417866acfa14c93d24e3e1d397d7d66968c67028",
+      "size": 171667,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/417866acfa14c93d24e3e1d397d7d66968c67028"
+    },
+    {
+      "path": "Continental Europe/France/2015/11",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8c0ed45369cef8b7bc9d9d127f1a4b409514910e",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/8c0ed45369cef8b7bc9d9d127f1a4b409514910e"
+    },
+    {
+      "path": "Continental Europe/France/2015/11/2015_11.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31a25e9716e076ed5fc2a9ce8ed7dfd97796cdb1",
+      "size": 1195289,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/31a25e9716e076ed5fc2a9ce8ed7dfd97796cdb1"
+    },
+    {
+      "path": "Continental Europe/France/2015/11/2015_11.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb6c3dc898e1463db2a24e72a6c2d6af90450267",
+      "size": 168830,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/eb6c3dc898e1463db2a24e72a6c2d6af90450267"
+    },
+    {
+      "path": "Continental Europe/France/2015/12",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ba00f276b6ea82e444faa4e200c90150e66df75f",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/ba00f276b6ea82e444faa4e200c90150e66df75f"
+    },
+    {
+      "path": "Continental Europe/France/2015/12/2015_12.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ee98157e15906ddd7e2753f9b42e86c457bb5b9",
+      "size": 1228079,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/3ee98157e15906ddd7e2753f9b42e86c457bb5b9"
+    },
+    {
+      "path": "Continental Europe/France/2015/12/2015_12.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "183cf2ff0c6d138b38ffa2f94829c9c1606ed72d",
+      "size": 168959,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/183cf2ff0c6d138b38ffa2f94829c9c1606ed72d"
+    },
+    {
+      "path": "Continental Europe/France/2016",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cda03cd99d01883f4089fea38dbf13762293f41e",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/cda03cd99d01883f4089fea38dbf13762293f41e"
+    },
+    {
+      "path": "Continental Europe/France/2016/01",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7aa976f27f6b35912048bf18d4297439b350d78b",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/7aa976f27f6b35912048bf18d4297439b350d78b"
+    },
+    {
+      "path": "Continental Europe/France/2016/01/2016_01.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc3f50f1fd1d006bb03a7246ec4f691d7a2d35e4",
+      "size": 1231832,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/cc3f50f1fd1d006bb03a7246ec4f691d7a2d35e4"
+    },
+    {
+      "path": "Continental Europe/France/2016/01/2016_01.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59b77421994cfe69841d33803321490d63d74c2c",
+      "size": 171519,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/59b77421994cfe69841d33803321490d63d74c2c"
+    },
+    {
+      "path": "Continental Europe/France/2016/02",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6ff7feb6f441676977c84ba961d3696827f04dda",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/6ff7feb6f441676977c84ba961d3696827f04dda"
+    },
+    {
+      "path": "Continental Europe/France/2016/02/2016_02.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6be42b754ac18a7d74fb4a03bb8a363a291ad3b",
+      "size": 1157588,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/e6be42b754ac18a7d74fb4a03bb8a363a291ad3b"
+    },
+    {
+      "path": "Continental Europe/France/2016/02/2016_02.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c8d0edbe196819df58f70f94c976a715d88d8b82",
+      "size": 171054,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/c8d0edbe196819df58f70f94c976a715d88d8b82"
+    },
+    {
+      "path": "Continental Europe/France/2016/03",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "53e5f5ec7eaca0d4991de51627eafb3061de5853",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/53e5f5ec7eaca0d4991de51627eafb3061de5853"
+    },
+    {
+      "path": "Continental Europe/France/2016/03/2016_03.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca5d88c5c2b60e7875ce81366ba60e3f12e838dc",
+      "size": 5732393,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/ca5d88c5c2b60e7875ce81366ba60e3f12e838dc"
+    },
+    {
+      "path": "Continental Europe/France/2016/03/2016_03.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f41b1f96d55001cc07d25f5d7538cd4505603cc0",
+      "size": 709688,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/f41b1f96d55001cc07d25f5d7538cd4505603cc0"
+    },
+    {
+      "path": "Continental Europe/France/2016/03/2016_03.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c761b9b22df8b510b29bea855491559d4fb36cf6",
+      "size": 181152,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/c761b9b22df8b510b29bea855491559d4fb36cf6"
+    },
+    {
+      "path": "Continental Europe/France/2016/04",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "65ef4eff0a95aff261fdb6dbb6cb2c0f817b0694",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/65ef4eff0a95aff261fdb6dbb6cb2c0f817b0694"
+    },
+    {
+      "path": "Continental Europe/France/2016/04/2016_04.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77967568a23f36ef072c76d74eb6fe84ca846bc5",
+      "size": 1190347,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/77967568a23f36ef072c76d74eb6fe84ca846bc5"
+    },
+    {
+      "path": "Continental Europe/France/2016/04/2016_04.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b0655c228778bc086be40abf46a8d3b883dadee1",
+      "size": 168778,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/b0655c228778bc086be40abf46a8d3b883dadee1"
+    },
+    {
+      "path": "Continental Europe/France/2016/05",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "023dd6769bd3069b1cfae8e0f2eb3dd6b1e399b0",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/023dd6769bd3069b1cfae8e0f2eb3dd6b1e399b0"
+    },
+    {
+      "path": "Continental Europe/France/2016/05/2016_05.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "70e7e8e33ee90600416ecd20dd81fd25faf08ed5",
+      "size": 1232708,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/70e7e8e33ee90600416ecd20dd81fd25faf08ed5"
+    },
+    {
+      "path": "Continental Europe/France/2016/05/2016_05.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b62a5461347881142e62be7f1f3e7a8d2846c36",
+      "size": 167964,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/9b62a5461347881142e62be7f1f3e7a8d2846c36"
+    },
+    {
+      "path": "Continental Europe/France/2016/06",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f5c8fa52ca225684e3fe276115586e6c4e7e0a12",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/f5c8fa52ca225684e3fe276115586e6c4e7e0a12"
+    },
+    {
+      "path": "Continental Europe/France/2016/06/2016_06.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "079f813787902a94c532291b55771d304709946c",
+      "size": 1194838,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/079f813787902a94c532291b55771d304709946c"
+    },
+    {
+      "path": "Continental Europe/France/2016/06/2016_06.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ecd5215b04727e18820815a2ada44cdb94937b8b",
+      "size": 164896,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/ecd5215b04727e18820815a2ada44cdb94937b8b"
+    },
+    {
+      "path": "Continental Europe/France/2016/07",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "91d0099701701a43d26eb8c6675307031c8656b2",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/91d0099701701a43d26eb8c6675307031c8656b2"
+    },
+    {
+      "path": "Continental Europe/France/2016/07/2016_07.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b3987033241d87ea79984df5f425f0f8916ae24e",
+      "size": 1228455,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/b3987033241d87ea79984df5f425f0f8916ae24e"
+    },
+    {
+      "path": "Continental Europe/France/2016/07/2016_07.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0e16a8844353ac378e0b4913ae4e257ce23bfdf2",
+      "size": 163715,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/0e16a8844353ac378e0b4913ae4e257ce23bfdf2"
+    },
+    {
+      "path": "Continental Europe/France/2016/08",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bb3840220dde188e9be93d99f2000083e707b708",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/bb3840220dde188e9be93d99f2000083e707b708"
+    },
+    {
+      "path": "Continental Europe/France/2016/08/2016_08.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e50136f077430ff91fd59b6b3db8d41d6496b29c",
+      "size": 1228316,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/e50136f077430ff91fd59b6b3db8d41d6496b29c"
+    },
+    {
+      "path": "Continental Europe/France/2016/08/2016_08.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f6a72c79d80c9270d4ad03c41d78cc2d90ce3c2",
+      "size": 164514,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/5f6a72c79d80c9270d4ad03c41d78cc2d90ce3c2"
+    },
+    {
+      "path": "Continental Europe/France/2016/09",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "54528f49ce153c5ac9116f01ed2f795a83c5345a",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/54528f49ce153c5ac9116f01ed2f795a83c5345a"
+    },
+    {
+      "path": "Continental Europe/France/2016/09/2016_09.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "feb97cc58ea73788bd145f4707649ff66b902a38",
+      "size": 1194539,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/feb97cc58ea73788bd145f4707649ff66b902a38"
+    },
+    {
+      "path": "Continental Europe/France/2016/09/2016_09.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d69696e7fa430edf065211aad88de9c512a00a95",
+      "size": 167220,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/d69696e7fa430edf065211aad88de9c512a00a95"
+    },
+    {
+      "path": "Continental Europe/France/2016/10",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7a9041d329ec5080df4030cb368da43064ada47c",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/7a9041d329ec5080df4030cb368da43064ada47c"
+    },
+    {
+      "path": "Continental Europe/France/2016/10/2016_10.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "762294340324d44981cc4bcbfb53239437079edb",
+      "size": 1239439,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/762294340324d44981cc4bcbfb53239437079edb"
+    },
+    {
+      "path": "Continental Europe/France/2016/10/2016_10.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bed5671e8b7c06aece92131fbd68fbc07b85cf33",
+      "size": 172631,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/bed5671e8b7c06aece92131fbd68fbc07b85cf33"
+    },
+    {
+      "path": "Continental Europe/France/2016/11",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "86634b9191d895b7e41f5486716acbdc70707be2",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/86634b9191d895b7e41f5486716acbdc70707be2"
+    },
+    {
+      "path": "Continental Europe/France/2016/11/2016_11.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "edfd42e74d757c38163c1204ecac6cab311357b0",
+      "size": 1199518,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/edfd42e74d757c38163c1204ecac6cab311357b0"
+    },
+    {
+      "path": "Continental Europe/France/2016/11/2016_11.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4f557ffcca6148edd44f4ae7a7e59e483fe4c84",
+      "size": 171827,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/d4f557ffcca6148edd44f4ae7a7e59e483fe4c84"
+    },
+    {
+      "path": "Continental Europe/France/2016/12",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "444bc40648da8874872e32d590862b767dd485d5",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/444bc40648da8874872e32d590862b767dd485d5"
+    },
+    {
+      "path": "Continental Europe/France/2016/12/2016_12.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec20ddddc6fa3d730d987f0b2e54a196a64a264a",
+      "size": 1238047,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/ec20ddddc6fa3d730d987f0b2e54a196a64a264a"
+    },
+    {
+      "path": "Continental Europe/France/2016/12/2016_12.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5380d52968d87e2680f029f65988aaad28dea3f",
+      "size": 171681,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/f5380d52968d87e2680f029f65988aaad28dea3f"
+    },
+    {
+      "path": "Continental Europe/France/2017",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "413bb0267f7686258ab48f89ca3fcb8321571363",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/413bb0267f7686258ab48f89ca3fcb8321571363"
+    },
+    {
+      "path": "Continental Europe/France/2017/01",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "019a618742ab5bf01426e79ec650c497cbb0fd2f",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/019a618742ab5bf01426e79ec650c497cbb0fd2f"
+    },
+    {
+      "path": "Continental Europe/France/2017/01/2017_01.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a6e3021c583ceff30f1f272592b053caec25cfe",
+      "size": 1241200,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/0a6e3021c583ceff30f1f272592b053caec25cfe"
+    },
+    {
+      "path": "Continental Europe/France/2017/01/2017_01.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ed07228d82c28c361154e7c97d1a7f84d6bc561a",
+      "size": 174471,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/ed07228d82c28c361154e7c97d1a7f84d6bc561a"
+    },
+    {
+      "path": "Continental Europe/France/2017/02",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "80b49739681e4bb8909e793c526b444c32977206",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/80b49739681e4bb8909e793c526b444c32977206"
+    },
+    {
+      "path": "Continental Europe/France/2017/02/2017_02.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a7b59cb4a21a94fbeaee47a3abe195e06ad1780",
+      "size": 1122530,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/6a7b59cb4a21a94fbeaee47a3abe195e06ad1780"
+    },
+    {
+      "path": "Continental Europe/France/2017/02/2017_02.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b8215c7fdc3b75806b0a4a85fa571a7bc6d1e85",
+      "size": 169895,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/0b8215c7fdc3b75806b0a4a85fa571a7bc6d1e85"
+    },
+    {
+      "path": "Continental Europe/France/2017/03",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cf1bf2d4f18a0d3d06eeb3636f5e7cedc193470d",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/cf1bf2d4f18a0d3d06eeb3636f5e7cedc193470d"
+    },
+    {
+      "path": "Continental Europe/France/2017/03/2017_03.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "efebd980feb0b803bbe04ef09d55965195bb622c",
+      "size": 1245393,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/efebd980feb0b803bbe04ef09d55965195bb622c"
+    },
+    {
+      "path": "Continental Europe/France/2017/03/2017_03.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "78d876c53bb891f8fa8c7a418cd80658c429fc89",
+      "size": 173106,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/78d876c53bb891f8fa8c7a418cd80658c429fc89"
+    },
+    {
+      "path": "Continental Europe/France/2017/04",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3fab9e0db0f658837f4700713cbb9632c3fde5ac",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/3fab9e0db0f658837f4700713cbb9632c3fde5ac"
+    },
+    {
+      "path": "Continental Europe/France/2017/04/2017_04.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d0275456675686464167d2abbe05b32f5f98185",
+      "size": 1204167,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/4d0275456675686464167d2abbe05b32f5f98185"
+    },
+    {
+      "path": "Continental Europe/France/2017/04/2017_04.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c87d2de2cc03e58924bcbac18212e56fcfa5c4d1",
+      "size": 171412,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/c87d2de2cc03e58924bcbac18212e56fcfa5c4d1"
+    },
+    {
+      "path": "Continental Europe/France/2017/05",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f20000281d14953d8dd6096a8adbd06053dd2457",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/f20000281d14953d8dd6096a8adbd06053dd2457"
+    },
+    {
+      "path": "Continental Europe/France/2017/05/2017_05.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66f331a1127e50a32b85060085969f77d4266d5f",
+      "size": 1240065,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/66f331a1127e50a32b85060085969f77d4266d5f"
+    },
+    {
+      "path": "Continental Europe/France/2017/05/2017_05.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c298f9ead5011f3245b4ea006e484c991b169ef",
+      "size": 168114,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/9c298f9ead5011f3245b4ea006e484c991b169ef"
+    },
+    {
+      "path": "Continental Europe/France/2017/06",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "134e5eb3bf845a7e42cde34f1986d8ac1c34073a",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/134e5eb3bf845a7e42cde34f1986d8ac1c34073a"
+    },
+    {
+      "path": "Continental Europe/France/2017/06/2017_06.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a06c61fa0e08700fd5ba89c3ab0303dbb491b777",
+      "size": 1195455,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/a06c61fa0e08700fd5ba89c3ab0303dbb491b777"
+    },
+    {
+      "path": "Continental Europe/France/2017/06/2017_06.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a162ce9292fbfdb6ad5280360008f92ee5174ff",
+      "size": 165013,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/5a162ce9292fbfdb6ad5280360008f92ee5174ff"
+    },
+    {
+      "path": "Continental Europe/France/2017/07",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bd60e251d42a003052b74a046f252841fb90a6ca",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/bd60e251d42a003052b74a046f252841fb90a6ca"
+    },
+    {
+      "path": "Continental Europe/France/2017/07/2017_07.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e8e1217d61b7935a983926daa0660ca57aaeed50",
+      "size": 1235191,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/e8e1217d61b7935a983926daa0660ca57aaeed50"
+    },
+    {
+      "path": "Continental Europe/France/2017/07/2017_07.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81afa5542fd1a25f16b666ea3561863427e3be22",
+      "size": 165872,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/81afa5542fd1a25f16b666ea3561863427e3be22"
+    },
+    {
+      "path": "Continental Europe/France/2017/08",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "61fcae00879465c7d1d63c48feb61856165f9479",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/61fcae00879465c7d1d63c48feb61856165f9479"
+    },
+    {
+      "path": "Continental Europe/France/2017/08/2017_08.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0f8a3a477beb9d09ebbd4a9eb9868e113766055",
+      "size": 1234068,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/e0f8a3a477beb9d09ebbd4a9eb9868e113766055"
+    },
+    {
+      "path": "Continental Europe/France/2017/08/2017_08.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "24ef1b1f8530617566f2fcb6185c8291a800c635",
+      "size": 165384,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/24ef1b1f8530617566f2fcb6185c8291a800c635"
+    },
+    {
+      "path": "Continental Europe/France/2017/09",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2006a90d6c3d50d6de88208ceae05865e162ecc8",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/2006a90d6c3d50d6de88208ceae05865e162ecc8"
+    },
+    {
+      "path": "Continental Europe/France/2017/09/2017_09.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "947dc6d818639ee97b1d90c12e93d67cf0420b7b",
+      "size": 1202838,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/947dc6d818639ee97b1d90c12e93d67cf0420b7b"
+    },
+    {
+      "path": "Continental Europe/France/2017/09/2017_09.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6dd339bc806c82f540dc302f9aa6a86662ba0494",
+      "size": 170118,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/6dd339bc806c82f540dc302f9aa6a86662ba0494"
+    },
+    {
+      "path": "Continental Europe/France/2017/10",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "547809a28c1ebc2924b05f5b4606a7b6adbd3e9e",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/547809a28c1ebc2924b05f5b4606a7b6adbd3e9e"
+    },
+    {
+      "path": "Continental Europe/France/2017/10/2017_10.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e727b816b7af55535b1895808e021a56e902f14b",
+      "size": 1248474,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/e727b816b7af55535b1895808e021a56e902f14b"
+    },
+    {
+      "path": "Continental Europe/France/2017/10/2017_10.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "08113178a1d5ee7268a2f3d714ab7a05fb9fdde2",
+      "size": 172477,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/08113178a1d5ee7268a2f3d714ab7a05fb9fdde2"
+    },
+    {
+      "path": "Continental Europe/France/2017/11",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "36930df5ee67ec3782b4c849b53d1bdfc002af00",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/36930df5ee67ec3782b4c849b53d1bdfc002af00"
+    },
+    {
+      "path": "Continental Europe/France/2017/11/2017_11.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1ff61ac2938402f5611dca52db1370ba97a4150",
+      "size": 1207396,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/f1ff61ac2938402f5611dca52db1370ba97a4150"
+    },
+    {
+      "path": "Continental Europe/France/2017/11/2017_11.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a8ac6e574989d46005cc81f5f2e954bce7d672b",
+      "size": 174637,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/4a8ac6e574989d46005cc81f5f2e954bce7d672b"
+    },
+    {
+      "path": "Continental Europe/France/2017/12",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a7d42cefb62e6a350519d2c9f44a2126f17a7ce6",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/a7d42cefb62e6a350519d2c9f44a2126f17a7ce6"
+    },
+    {
+      "path": "Continental Europe/France/2017/12/2017_12.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a2ca06d79b044b337f3fdf39566d5817316d92ee",
+      "size": 1242205,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/a2ca06d79b044b337f3fdf39566d5817316d92ee"
+    },
+    {
+      "path": "Continental Europe/France/2017/12/2017_12.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27c34cdfef8b910b2cf868cf1f202293e18da290",
+      "size": 173641,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/27c34cdfef8b910b2cf868cf1f202293e18da290"
+    },
+    {
+      "path": "Continental Europe/France/2018",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f7d9885f079bc4e2040d579b5c851e672fa8b1ae",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/f7d9885f079bc4e2040d579b5c851e672fa8b1ae"
+    },
+    {
+      "path": "Continental Europe/France/2018/01",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2620a09875c1e9429235f816188ff52ce0cadb96",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/2620a09875c1e9429235f816188ff52ce0cadb96"
+    },
+    {
+      "path": "Continental Europe/France/2018/01/2018_01.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eaf3ff1949b5ea2bef518f64460846bd1a32cba7",
+      "size": 1239788,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/eaf3ff1949b5ea2bef518f64460846bd1a32cba7"
+    },
+    {
+      "path": "Continental Europe/France/2018/01/2018_01.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f79c2cea855dc04b69f8286558055365a67a982d",
+      "size": 173583,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/f79c2cea855dc04b69f8286558055365a67a982d"
+    },
+    {
+      "path": "Continental Europe/France/2018/02",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "43b6abdf6bbe7b47241073ea2796865792e7da3c",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/43b6abdf6bbe7b47241073ea2796865792e7da3c"
+    },
+    {
+      "path": "Continental Europe/France/2018/02/2018_02.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f23d6d42e9a00631fdbaba6ad2c4b3e6a4de03f",
+      "size": 1126125,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/1f23d6d42e9a00631fdbaba6ad2c4b3e6a4de03f"
+    },
+    {
+      "path": "Continental Europe/France/2018/02/2018_02.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7f6838758c29093b50ba59a2c8eb2eff37980da",
+      "size": 174298,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/a7f6838758c29093b50ba59a2c8eb2eff37980da"
+    },
+    {
+      "path": "Continental Europe/France/2018/03",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2558961d1a978413f0687aadcab42b54e0af3cff",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/2558961d1a978413f0687aadcab42b54e0af3cff"
+    },
+    {
+      "path": "Continental Europe/France/2018/03/2018_03.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a14ffcdf17620bc4bbcccb7c331536c53ccdf44",
+      "size": 1245800,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/8a14ffcdf17620bc4bbcccb7c331536c53ccdf44"
+    },
+    {
+      "path": "Continental Europe/France/2018/03/2018_03.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4cf1d1124a841b743ca7d3eef216d7336b9c19dd",
+      "size": 174930,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/4cf1d1124a841b743ca7d3eef216d7336b9c19dd"
+    },
+    {
+      "path": "Continental Europe/France/2018/04",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7a67a792f24219699ea2cd0ac6c601c62d3560d5",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/7a67a792f24219699ea2cd0ac6c601c62d3560d5"
+    },
+    {
+      "path": "Continental Europe/France/2018/04/2018_04.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "188d04e8238b17a1fd8cb35f52a5699b8630332c",
+      "size": 1825765,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/188d04e8238b17a1fd8cb35f52a5699b8630332c"
+    },
+    {
+      "path": "Continental Europe/France/2018/04/2018_04.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "100da3f17c0abd7d57f064669263df8d643f330e",
+      "size": 172133,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/100da3f17c0abd7d57f064669263df8d643f330e"
+    },
+    {
+      "path": "Continental Europe/France/2018/05",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ed610a65e8b2294999651671f2465248ea57f793",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/ed610a65e8b2294999651671f2465248ea57f793"
+    },
+    {
+      "path": "Continental Europe/France/2018/05/2018_05.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1dc320587d45fcb9d38d901ae3683df96cd2a57",
+      "size": 1237838,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/b1dc320587d45fcb9d38d901ae3683df96cd2a57"
+    },
+    {
+      "path": "Continental Europe/France/2018/05/2018_05.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af5307c9f75982e0131eebd119ec4d05f696c0cd",
+      "size": 168715,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/af5307c9f75982e0131eebd119ec4d05f696c0cd"
+    },
+    {
+      "path": "Continental Europe/France/2018/06",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "048e5d3f410bc26d76000ecef458fa759241d511",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/048e5d3f410bc26d76000ecef458fa759241d511"
+    },
+    {
+      "path": "Continental Europe/France/2018/06/2018_06.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76d4c710c57a44488f8d70afcb898afc90d4b6fa",
+      "size": 1196453,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/76d4c710c57a44488f8d70afcb898afc90d4b6fa"
+    },
+    {
+      "path": "Continental Europe/France/2018/06/2018_06.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9636562398af12190a569fc5ed2a0c8f64c27ad8",
+      "size": 166724,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/9636562398af12190a569fc5ed2a0c8f64c27ad8"
+    },
+    {
+      "path": "Continental Europe/France/2018/07",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a6844e16f8bdc7b99e1f1152863c5d11598d00ea",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/a6844e16f8bdc7b99e1f1152863c5d11598d00ea"
+    },
+    {
+      "path": "Continental Europe/France/2018/07/2018_07.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6625f84189263fc06b8c90a8bee6f81a5f875232",
+      "size": 1232753,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/6625f84189263fc06b8c90a8bee6f81a5f875232"
+    },
+    {
+      "path": "Continental Europe/France/2018/07/2018_07.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "428832b1066fac0bd88fad742a22adbe3483895b",
+      "size": 163735,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/428832b1066fac0bd88fad742a22adbe3483895b"
+    },
+    {
+      "path": "Continental Europe/France/2018/08",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7f619f61424f94f420fbd5c2ac2459ddd9df6ae3",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/7f619f61424f94f420fbd5c2ac2459ddd9df6ae3"
+    },
+    {
+      "path": "Continental Europe/France/2018/08/2018_08.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0ad233644deb0535a59e47c20e83ea90bbfbee59",
+      "size": 1232950,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/0ad233644deb0535a59e47c20e83ea90bbfbee59"
+    },
+    {
+      "path": "Continental Europe/France/2018/08/2018_08.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "38a8ba0f5ab3af884df733a20c5a3b0c200809f1",
+      "size": 165962,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/38a8ba0f5ab3af884df733a20c5a3b0c200809f1"
+    },
+    {
+      "path": "Continental Europe/France/2018/09",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8a337899acfd01cbb247e561490c5252cc684050",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/8a337899acfd01cbb247e561490c5252cc684050"
+    },
+    {
+      "path": "Continental Europe/France/2018/09/2018_09.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1493ac2b5fcdf3f242782edb3b79589ac12fdfa",
+      "size": 1200369,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/f1493ac2b5fcdf3f242782edb3b79589ac12fdfa"
+    },
+    {
+      "path": "Continental Europe/France/2018/09/2018_09.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5769f62e48cef80a5f4c4152a38f76754c5d52ec",
+      "size": 169352,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/5769f62e48cef80a5f4c4152a38f76754c5d52ec"
+    },
+    {
+      "path": "Continental Europe/France/2018/10",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a853fc72ebc38ab843c7f4e44f95138fc19dc3bb",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/a853fc72ebc38ab843c7f4e44f95138fc19dc3bb"
+    },
+    {
+      "path": "Continental Europe/France/2018/10/2018_10.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d67adace486f3e2907cd5d778e0f30b1cd96685a",
+      "size": 1244586,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/d67adace486f3e2907cd5d778e0f30b1cd96685a"
+    },
+    {
+      "path": "Continental Europe/France/2018/10/2018_10.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fdbafbd40ffa5b8bf3e11a0fa997e62694e692f8",
+      "size": 174787,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/fdbafbd40ffa5b8bf3e11a0fa997e62694e692f8"
+    },
+    {
+      "path": "Continental Europe/France/2018/11",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1405fbcf6158a4717cc780ae0dcf7eed0cf0e848",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/1405fbcf6158a4717cc780ae0dcf7eed0cf0e848"
+    },
+    {
+      "path": "Continental Europe/France/2018/11/2018_11.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d18d5b1b5773244394cd19b5227c165e9c7a855e",
+      "size": 1202447,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/d18d5b1b5773244394cd19b5227c165e9c7a855e"
+    },
+    {
+      "path": "Continental Europe/France/2018/11/2018_11.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09e5c499d1a4529c416f5629d21b36770c1f043c",
+      "size": 171614,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/09e5c499d1a4529c416f5629d21b36770c1f043c"
+    },
+    {
+      "path": "Continental Europe/France/2018/12",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7b9bf1d09e8c3e6ac72a400871fca1b32f94eed8",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/7b9bf1d09e8c3e6ac72a400871fca1b32f94eed8"
+    },
+    {
+      "path": "Continental Europe/France/2018/12/2018_12.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0197d4b5568af2d8444a78ad1ec3704385ec19e",
+      "size": 1236208,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/a0197d4b5568af2d8444a78ad1ec3704385ec19e"
+    },
+    {
+      "path": "Continental Europe/France/2018/12/2018_12.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "efa57a021a9ef9c505dfa4365057fe167dd55d03",
+      "size": 171634,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/efa57a021a9ef9c505dfa4365057fe167dd55d03"
+    },
+    {
+      "path": "Continental Europe/France/2019",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fae527d2d9534dd27ee5a9be53e9c39bc588951d",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/fae527d2d9534dd27ee5a9be53e9c39bc588951d"
+    },
+    {
+      "path": "Continental Europe/France/2019/01",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9472b421997a2205394dfe4ed0fea7db2c73ba4f",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/9472b421997a2205394dfe4ed0fea7db2c73ba4f"
+    },
+    {
+      "path": "Continental Europe/France/2019/01/2019_01.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a4b01c8b16aaf9b95390289118e23c7e4ca474d",
+      "size": 1239425,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/5a4b01c8b16aaf9b95390289118e23c7e4ca474d"
+    },
+    {
+      "path": "Continental Europe/France/2019/01/2019_01.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85a4a79a99b6970ec3a40018fe3b6b4a85b601a8",
+      "size": 173276,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/85a4a79a99b6970ec3a40018fe3b6b4a85b601a8"
+    },
+    {
+      "path": "Continental Europe/France/2019/02",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5de981678e1231867531a1000ae430b4871fcab7",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/5de981678e1231867531a1000ae430b4871fcab7"
+    },
+    {
+      "path": "Continental Europe/France/2019/02/2019_02.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "852c73b79c0b4cda077a9e3732659470ceecb8bd",
+      "size": 1120828,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/852c73b79c0b4cda077a9e3732659470ceecb8bd"
+    },
+    {
+      "path": "Continental Europe/France/2019/02/2019_02.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1af168e52ed1f5ae3e3a3b88faaf3c1282d1ebc0",
+      "size": 171738,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/1af168e52ed1f5ae3e3a3b88faaf3c1282d1ebc0"
+    },
+    {
+      "path": "Continental Europe/France/2019/03",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3dcbd4186c79a69a8d044e3d296c48cc98ea00a3",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/3dcbd4186c79a69a8d044e3d296c48cc98ea00a3"
+    },
+    {
+      "path": "Continental Europe/France/2019/03/2019_03.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "82a4904db85121496c51029ece5d960da15d3a99",
+      "size": 1241157,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/82a4904db85121496c51029ece5d960da15d3a99"
+    },
+    {
+      "path": "Continental Europe/France/2019/03/2019_03.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb083242333e768978314a13ed2ca94d8c73304d",
+      "size": 172249,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/fb083242333e768978314a13ed2ca94d8c73304d"
+    },
+    {
+      "path": "Continental Europe/France/2019/04",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "07950fd0533e09297ee7e60201c1f8aedccee1ee",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/07950fd0533e09297ee7e60201c1f8aedccee1ee"
+    },
+    {
+      "path": "Continental Europe/France/2019/04/2019_04.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e764ce70dfa66b5ddfe2d836db8e77f8a597e420",
+      "size": 1200886,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/e764ce70dfa66b5ddfe2d836db8e77f8a597e420"
+    },
+    {
+      "path": "Continental Europe/France/2019/04/2019_04.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d37aca2f76518be764e1a199564073255665517b",
+      "size": 170707,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/d37aca2f76518be764e1a199564073255665517b"
+    },
+    {
+      "path": "Continental Europe/France/2019/05",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "910886c04b218ddceeb5e229a2d6c5a2411eaf6f",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/910886c04b218ddceeb5e229a2d6c5a2411eaf6f"
+    },
+    {
+      "path": "Continental Europe/France/2019/05/2019_05.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d04da957dd33c6848e7cb0fd8855d044df6ed526",
+      "size": 1238255,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/d04da957dd33c6848e7cb0fd8855d044df6ed526"
+    },
+    {
+      "path": "Continental Europe/France/2019/05/2019_05.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bab67e58dde10a9be020e9dd73d60b84f702f9df",
+      "size": 168263,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/bab67e58dde10a9be020e9dd73d60b84f702f9df"
+    },
+    {
+      "path": "Continental Europe/France/2019/06",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5c27415a1a8d8ea974d05c3dfdf966ef79d63a00",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/5c27415a1a8d8ea974d05c3dfdf966ef79d63a00"
+    },
+    {
+      "path": "Continental Europe/France/2019/06/2019_06.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09ab071da7ff7ecaa338cdd3b7186f477d171712",
+      "size": 1195290,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/09ab071da7ff7ecaa338cdd3b7186f477d171712"
+    },
+    {
+      "path": "Continental Europe/France/2019/06/2019_06.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ab2f97ae638bc29e941a871bcfd36b14988f1ab",
+      "size": 166010,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/1ab2f97ae638bc29e941a871bcfd36b14988f1ab"
+    },
+    {
+      "path": "Continental Europe/France/2019/07",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "199be9f21fe49126f2e0cfa875c61a4cadd3dd4e",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/199be9f21fe49126f2e0cfa875c61a4cadd3dd4e"
+    },
+    {
+      "path": "Continental Europe/France/2019/07/2019_07.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "697690f5a26c8ea8c7b8359206c89b4bbe8054e8",
+      "size": 1230916,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/697690f5a26c8ea8c7b8359206c89b4bbe8054e8"
+    },
+    {
+      "path": "Continental Europe/France/2019/07/2019_07.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb4c09cfd419dec52bf3da5fb196b04cd1fd9b78",
+      "size": 162778,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/fb4c09cfd419dec52bf3da5fb196b04cd1fd9b78"
+    },
+    {
+      "path": "Continental Europe/France/2019/08",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8a589ed21104bfc127bb5e102e1b09d89d868f6c",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/8a589ed21104bfc127bb5e102e1b09d89d868f6c"
+    },
+    {
+      "path": "Continental Europe/France/2019/08/2019_08.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cfcaf039453197a374ef62e4c1bdd2ede638dc47",
+      "size": 1230289,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/cfcaf039453197a374ef62e4c1bdd2ede638dc47"
+    },
+    {
+      "path": "Continental Europe/France/2019/08/2019_08.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e04a5151407e150a68751de43c544889873b02a8",
+      "size": 164223,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/e04a5151407e150a68751de43c544889873b02a8"
+    },
+    {
+      "path": "Continental Europe/France/2019/09",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bb24d1d924bb3914d507510fcc296d1bd2635f9a",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/bb24d1d924bb3914d507510fcc296d1bd2635f9a"
+    },
+    {
+      "path": "Continental Europe/France/2019/09/2019_09.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d4d667f113b44634b3de1076139f94a8d80e8f6",
+      "size": 1197002,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/3d4d667f113b44634b3de1076139f94a8d80e8f6"
+    },
+    {
+      "path": "Continental Europe/France/2019/09/2019_09.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aeda01fbcabbf379dfb4525a25835e70e5c0b31f",
+      "size": 167262,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/aeda01fbcabbf379dfb4525a25835e70e5c0b31f"
+    },
+    {
+      "path": "Continental Europe/France/2019/10",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4b4ee0c5235154db3755c764bb031aa010b88d64",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/4b4ee0c5235154db3755c764bb031aa010b88d64"
+    },
+    {
+      "path": "Continental Europe/France/2019/10/2019_10.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "993ddc1158ac8ef6d73a0e79b8b91dff533bdd15",
+      "size": 1239118,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/993ddc1158ac8ef6d73a0e79b8b91dff533bdd15"
+    },
+    {
+      "path": "Continental Europe/France/2019/10/2019_10.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "07da1619ee3a9d4c70e738c4c325d3deb0ea1ad0",
+      "size": 169885,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/07da1619ee3a9d4c70e738c4c325d3deb0ea1ad0"
+    },
+    {
+      "path": "Continental Europe/France/2019/11",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f9669f0490c00324c03b6b7a4f56982bd79ef0f8",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/f9669f0490c00324c03b6b7a4f56982bd79ef0f8"
+    },
+    {
+      "path": "Continental Europe/France/2019/11/2019_11.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "671dd63457ac09a6e3f9dd6b486ab314f3cfd16d",
+      "size": 1199630,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/671dd63457ac09a6e3f9dd6b486ab314f3cfd16d"
+    },
+    {
+      "path": "Continental Europe/France/2019/11/2019_11.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4eda65d34ad7e1aacd6cd3c86c976ef3e38a828f",
+      "size": 169007,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/4eda65d34ad7e1aacd6cd3c86c976ef3e38a828f"
+    },
+    {
+      "path": "Continental Europe/France/2019/12",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "05ccba7944133356d974a8dde704a7147f7ca676",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/05ccba7944133356d974a8dde704a7147f7ca676"
+    },
+    {
+      "path": "Continental Europe/France/2019/12/2019_12.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e747c1dacad1b29634795546299b7cbf16af7cc0",
+      "size": 1234257,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/e747c1dacad1b29634795546299b7cbf16af7cc0"
+    },
+    {
+      "path": "Continental Europe/France/2019/12/2019_12.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b13bd6186f49058ad6f14b633ba2f43fc5e2eb6b",
+      "size": 171411,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/b13bd6186f49058ad6f14b633ba2f43fc5e2eb6b"
+    },
+    {
+      "path": "Continental Europe/France/2020",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6b99226f3139274d12fdd4368e3aa6665c64f279",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/6b99226f3139274d12fdd4368e3aa6665c64f279"
+    },
+    {
+      "path": "Continental Europe/France/2020/01",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f06c153e30982d08df024cb97fb04a5963d64b36",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/f06c153e30982d08df024cb97fb04a5963d64b36"
+    },
+    {
+      "path": "Continental Europe/France/2020/01/2020_01.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9a267410f32756ad279328ad097019cdae4173f",
+      "size": 1234511,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/b9a267410f32756ad279328ad097019cdae4173f"
+    },
+    {
+      "path": "Continental Europe/France/2020/01/2020_01.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9ef170468bf6323528971a44812ee911e2f0ac1",
+      "size": 170499,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/e9ef170468bf6323528971a44812ee911e2f0ac1"
+    },
+    {
+      "path": "Continental Europe/France/2020/02",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8e7eb498b93dc45381cc219f170aebf2497ccd0e",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/8e7eb498b93dc45381cc219f170aebf2497ccd0e"
+    },
+    {
+      "path": "Continental Europe/France/2020/02/2020_02.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48345c9a15965405b98556be55d1364e407f2f18",
+      "size": 1156640,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/48345c9a15965405b98556be55d1364e407f2f18"
+    },
+    {
+      "path": "Continental Europe/France/2020/02/2020_02.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3959bc01935afe8d8c96d06c8ebd07cf43081991",
+      "size": 169496,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/3959bc01935afe8d8c96d06c8ebd07cf43081991"
+    },
+    {
+      "path": "Continental Europe/France/2020/03",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "158a18fb45a67da8975840e9e3a33d8f0a417a04",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/158a18fb45a67da8975840e9e3a33d8f0a417a04"
+    },
+    {
+      "path": "Continental Europe/France/2020/03/2020_03.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54cef23da081796a38138e7cdab58b49fd5f7adb",
+      "size": 1236822,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/54cef23da081796a38138e7cdab58b49fd5f7adb"
+    },
+    {
+      "path": "Continental Europe/France/2020/03/2020_03.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da5edbf7f19c7ded96d62d28e539d1f2bee26d6e",
+      "size": 170568,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/da5edbf7f19c7ded96d62d28e539d1f2bee26d6e"
+    },
+    {
+      "path": "Continental Europe/France/2020/04",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "766d2002d62179c7434e1b6b2d37b770980fd62d",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/766d2002d62179c7434e1b6b2d37b770980fd62d"
+    },
+    {
+      "path": "Continental Europe/France/2020/04/2020_04.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "71296f5fae39d4d9d4b498e4245dfb88adbbcdf9",
+      "size": 1194453,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/71296f5fae39d4d9d4b498e4245dfb88adbbcdf9"
+    },
+    {
+      "path": "Continental Europe/France/2020/04/2020_04.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1da916bd9b4bdc1a96b619be0813519a8288095a",
+      "size": 169029,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/1da916bd9b4bdc1a96b619be0813519a8288095a"
+    },
+    {
+      "path": "Continental Europe/France/2020/05",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "814e085888ffb7c6e6ba7ce778dcbf990c2406ce",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/814e085888ffb7c6e6ba7ce778dcbf990c2406ce"
+    },
+    {
+      "path": "Continental Europe/France/2020/05/2020_05.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0a05895a24955d9f6b84020425a252a5b7afa8b",
+      "size": 1233559,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/a0a05895a24955d9f6b84020425a252a5b7afa8b"
+    },
+    {
+      "path": "Continental Europe/France/2020/05/2020_05.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "943e70d574ec6b21c45cd064feeb7808f64effd5",
+      "size": 165880,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/943e70d574ec6b21c45cd064feeb7808f64effd5"
+    },
+    {
+      "path": "Continental Europe/Germany",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9df96263b00b9cac60e3fe73f4fa43be6c8046a4",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/9df96263b00b9cac60e3fe73f4fa43be6c8046a4"
+    },
+    {
+      "path": "Continental Europe/Germany/2011",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5d56a98cad41da1964af898f5c9c1f34027e41f8",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/5d56a98cad41da1964af898f5c9c1f34027e41f8"
+    },
+    {
+      "path": "Continental Europe/Germany/2011/07",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5ef82206205fce359207b14d49880be4ddad73df",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/5ef82206205fce359207b14d49880be4ddad73df"
+    },
+    {
+      "path": "Continental Europe/Germany/2011/07/2011_07.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5eb0ecf7757a7ce4f62bc5a54690baf6e99023a2",
+      "size": 9243216,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/5eb0ecf7757a7ce4f62bc5a54690baf6e99023a2"
+    },
+    {
+      "path": "Continental Europe/Germany/2011/07/2011_07.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55bc93f7323e748606085a20d53f98c766b5541a",
+      "size": 200012,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/55bc93f7323e748606085a20d53f98c766b5541a"
+    },
+    {
+      "path": "Continental Europe/Germany/2011/08",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c18639a10b6d12ea29b92372605e410e2a4f8cca",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/c18639a10b6d12ea29b92372605e410e2a4f8cca"
+    },
+    {
+      "path": "Continental Europe/Germany/2011/08/2011_08.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "890ea8dfe6982de091b1e7817eeb9395ab491a90",
+      "size": 9260681,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/890ea8dfe6982de091b1e7817eeb9395ab491a90"
+    },
+    {
+      "path": "Continental Europe/Germany/2011/08/2011_08.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1e439564fa2fd7ee7994bcd9a969ea84bded7dfe",
+      "size": 197093,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/1e439564fa2fd7ee7994bcd9a969ea84bded7dfe"
+    },
+    {
+      "path": "Continental Europe/Germany/2011/09",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c03c7ae0581eb321c57daa2f4f0a49db8610be34",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/c03c7ae0581eb321c57daa2f4f0a49db8610be34"
+    },
+    {
+      "path": "Continental Europe/Germany/2011/09/2011_09.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a8f7ac759f45660739d9da6fc1e4f1599c0334b",
+      "size": 9007288,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/8a8f7ac759f45660739d9da6fc1e4f1599c0334b"
+    },
+    {
+      "path": "Continental Europe/Germany/2011/09/2011_09.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "022e95a0441c6847f3c5adc920cba7fffef3a286",
+      "size": 203664,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/022e95a0441c6847f3c5adc920cba7fffef3a286"
+    },
+    {
+      "path": "Continental Europe/Germany/2011/10",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "83b52e0f5e8b7df0bf1638db5c0dd6ce944b77aa",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/83b52e0f5e8b7df0bf1638db5c0dd6ce944b77aa"
+    },
+    {
+      "path": "Continental Europe/Germany/2011/10/2011_10.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f4993be17c0d0fa6499791957d0acf552c9b0c8",
+      "size": 9263354,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/9f4993be17c0d0fa6499791957d0acf552c9b0c8"
+    },
+    {
+      "path": "Continental Europe/Germany/2011/10/2011_10.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a10de128d11dae2ea5cd4fa84f4728045b08686",
+      "size": 207908,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/3a10de128d11dae2ea5cd4fa84f4728045b08686"
+    },
+    {
+      "path": "Continental Europe/Germany/2011/11",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0b7479232ac0be2acc48a66591930210f4dc4e90",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/0b7479232ac0be2acc48a66591930210f4dc4e90"
+    },
+    {
+      "path": "Continental Europe/Germany/2011/11/2011_11.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ae863de04482bcb6d74fcb66154bf3507c83232",
+      "size": 8652832,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/5ae863de04482bcb6d74fcb66154bf3507c83232"
+    },
+    {
+      "path": "Continental Europe/Germany/2011/11/2011_11.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7f8fe9c9e62659bb51a359b78be17ec909f13bed",
+      "size": 203459,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/7f8fe9c9e62659bb51a359b78be17ec909f13bed"
+    },
+    {
+      "path": "Continental Europe/Germany/2011/12",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e1a196f2e581a5943aee8d4c188f36a5d179f56d",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/e1a196f2e581a5943aee8d4c188f36a5d179f56d"
+    },
+    {
+      "path": "Continental Europe/Germany/2011/12/2011_12.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e17ca6ce703eecfdf631cf485c8ec34dc7320e3e",
+      "size": 8026253,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/e17ca6ce703eecfdf631cf485c8ec34dc7320e3e"
+    },
+    {
+      "path": "Continental Europe/Germany/2011/12/2011_12.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89b14abbfe971fc28bc21adcbb6cba28c45cef22",
+      "size": 114312,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/89b14abbfe971fc28bc21adcbb6cba28c45cef22"
+    },
+    {
+      "path": "Continental Europe/Germany/2012",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4382b6e5958af2a77a9dbd3efdcf83d2aabf9b5b",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/4382b6e5958af2a77a9dbd3efdcf83d2aabf9b5b"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/01",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d4bb41341cdf727beba999348c0f5205b8bc75ea",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/d4bb41341cdf727beba999348c0f5205b8bc75ea"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/01/2012_01.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c87acdaf19d086da55c3537d268856b22783f00",
+      "size": 6591567,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/2c87acdaf19d086da55c3537d268856b22783f00"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/01/2012_01.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf5abfc32dd0141ecc731131a4f08084638d414f",
+      "size": 114541,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/cf5abfc32dd0141ecc731131a4f08084638d414f"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/02",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "945c45addac22e7cada9f9774de47087941829d3",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/945c45addac22e7cada9f9774de47087941829d3"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/02/2012_02.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12044837912cf47892d9312fd35ae02efd4beea5",
+      "size": 8291193,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/12044837912cf47892d9312fd35ae02efd4beea5"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/02/2012_02.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2490f37e5bbc12eec32a84f104471167b0c2f757",
+      "size": 194368,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/2490f37e5bbc12eec32a84f104471167b0c2f757"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/03",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6ca59bd7420c30f651eac9b3446f1bc6a9094e88",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/6ca59bd7420c30f651eac9b3446f1bc6a9094e88"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/03/2012_03.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5925e8b75dc94bae16310e3b6b0e0dfd88faa6ea",
+      "size": 9280115,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/5925e8b75dc94bae16310e3b6b0e0dfd88faa6ea"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/03/2012_03.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9c492dbbe11baa54c1b8deed728794eebaac76b",
+      "size": 198657,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/e9c492dbbe11baa54c1b8deed728794eebaac76b"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/04",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c54b76eb04d6af7fcf94406c2970056c922c3d2b",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/c54b76eb04d6af7fcf94406c2970056c922c3d2b"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/04/2012_04.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "57a91073cf232a2bb03b571f36869bc108e08854",
+      "size": 8825771,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/57a91073cf232a2bb03b571f36869bc108e08854"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/04/2012_04.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd01e2724b87574806a5e24bf693a3cfc4c43424",
+      "size": 229682,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/cd01e2724b87574806a5e24bf693a3cfc4c43424"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/05",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cf9859d604bc747686352f25b48b1156efc74d4d",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/cf9859d604bc747686352f25b48b1156efc74d4d"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/05/2012_05.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8d7f80f60cc24cc4c9d9c29a88f6d23b81badc77",
+      "size": 9336184,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/8d7f80f60cc24cc4c9d9c29a88f6d23b81badc77"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/05/2012_05.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e488c0ce81ee8c76d824c709a75be858a9f15445",
+      "size": 196286,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/e488c0ce81ee8c76d824c709a75be858a9f15445"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/06",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "255ab36e013099fde48d59e84ea269420ecf15d1",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/255ab36e013099fde48d59e84ea269420ecf15d1"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/06/2012_06.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca5a6594352e19c16e8e32e921fa0ed79af57cb0",
+      "size": 8979017,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/ca5a6594352e19c16e8e32e921fa0ed79af57cb0"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/06/2012_06.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88d5131d538faf4f260ac1d81cc93e37bb78c5b3",
+      "size": 231345,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/88d5131d538faf4f260ac1d81cc93e37bb78c5b3"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/07",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "57c60e84e1637bee65836cb205b0783bcb00f243",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/57c60e84e1637bee65836cb205b0783bcb00f243"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/07/2012_07.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "79c34b83a34c7e72c2b71ce61d11b06a7161b01b",
+      "size": 9308384,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/79c34b83a34c7e72c2b71ce61d11b06a7161b01b"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/07/2012_07.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "daca7dafa8a2bff895bbc2fef85b2c5d4b8f3b89",
+      "size": 203378,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/daca7dafa8a2bff895bbc2fef85b2c5d4b8f3b89"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/08",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b85a9359d619b8a035988b48d0883fccbe57ce00",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/b85a9359d619b8a035988b48d0883fccbe57ce00"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/08/2012_08.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6b3f3e39379dfbdc8d805f8b38ca77f0f419f86",
+      "size": 9225403,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/a6b3f3e39379dfbdc8d805f8b38ca77f0f419f86"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/08/2012_08.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67864c3d0ffc51bdc6b18aecbb8b8420c2f7c64b",
+      "size": 191359,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/67864c3d0ffc51bdc6b18aecbb8b8420c2f7c64b"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/09",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0ad39f672ef780d54b6f0c4d68b9385ba42f7907",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/0ad39f672ef780d54b6f0c4d68b9385ba42f7907"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/09/2012_09.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99596013f9be5b11f6c4b53091b80f6b2ef9bc2e",
+      "size": 9013807,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/99596013f9be5b11f6c4b53091b80f6b2ef9bc2e"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/09/2012_09.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a190a104583ebf61ad2c577290f592ab2836bafe",
+      "size": 220395,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/a190a104583ebf61ad2c577290f592ab2836bafe"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/10",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "49fb0353065cb096d1067ef080a99d952ea8a112",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/49fb0353065cb096d1067ef080a99d952ea8a112"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/10/2012_10.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "769460808ab95b4d50eb26e459776ae577afba3f",
+      "size": 9253197,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/769460808ab95b4d50eb26e459776ae577afba3f"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/10/2012_10.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67181f1b745efef3ac34ba8bbf39f58544eb7650",
+      "size": 223588,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/67181f1b745efef3ac34ba8bbf39f58544eb7650"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/11",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c947a609714b4aff6a5567ea8e0bea91051a2aae",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/c947a609714b4aff6a5567ea8e0bea91051a2aae"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/11/2012_11.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fea0cc8735da0761c6d7875876dbbef65c6cd617",
+      "size": 8951233,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/fea0cc8735da0761c6d7875876dbbef65c6cd617"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/11/2012_11.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e82f75e301940201f5c086a176782b6c99eae544",
+      "size": 200375,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/e82f75e301940201f5c086a176782b6c99eae544"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/12",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5e44a2531d3bb53d9800d18da1c05a579f8f9bd7",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/5e44a2531d3bb53d9800d18da1c05a579f8f9bd7"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/12/2012_12.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c1c12c7593ec8a1019b28783a096fac26d5b4de2",
+      "size": 9163063,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/c1c12c7593ec8a1019b28783a096fac26d5b4de2"
+    },
+    {
+      "path": "Continental Europe/Germany/2012/12/2012_12.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4fb897f3357e29acc2890941b77ad1c52a0748e",
+      "size": 193466,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/f4fb897f3357e29acc2890941b77ad1c52a0748e"
+    },
+    {
+      "path": "Continental Europe/Germany/2013",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "698f35ee93fabbf393344c9de272d8141d3c9d95",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/698f35ee93fabbf393344c9de272d8141d3c9d95"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/01",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3ae73f84cc8ae843dd94e318bdc5b88e281e16c4",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/3ae73f84cc8ae843dd94e318bdc5b88e281e16c4"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/01/2013_01.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e044e847382eb5119cc39c3cba92586e6df0b3a0",
+      "size": 9177906,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/e044e847382eb5119cc39c3cba92586e6df0b3a0"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/01/2013_01.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1650cbac526c05de3e4ad9e14bf75c744b64349",
+      "size": 189603,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/b1650cbac526c05de3e4ad9e14bf75c744b64349"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/02",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "caf847571aeb4e5c11e2cc543674be8da38b0b06",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/caf847571aeb4e5c11e2cc543674be8da38b0b06"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/02/2013_02.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a4e5845d5efbe381c941967b15a606856226372",
+      "size": 8052980,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/3a4e5845d5efbe381c941967b15a606856226372"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/02/2013_02.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b61fe84f660b1abc753e96fac5e03f3fe7c89b18",
+      "size": 187978,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/b61fe84f660b1abc753e96fac5e03f3fe7c89b18"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/03",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "11acec3c72a79cca87c455f121a895287bea0b21",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/11acec3c72a79cca87c455f121a895287bea0b21"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/03/2013_03.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19591f896562e46f29adc822276a626d809e60fa",
+      "size": 9258275,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/19591f896562e46f29adc822276a626d809e60fa"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/03/2013_03.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b29353779e5664642cadf11d36d424c16e3fde9",
+      "size": 192419,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/6b29353779e5664642cadf11d36d424c16e3fde9"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/04",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f1704a8a2d8eefc949372f6ec9d8111f7c53dcdb",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/f1704a8a2d8eefc949372f6ec9d8111f7c53dcdb"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/04/2013_04.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef85d6781d2cd05eb542eff0fe65fa1e8768b863",
+      "size": 8995314,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/ef85d6781d2cd05eb542eff0fe65fa1e8768b863"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/04/2013_04.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8d548874204102fe4d88ef12e3096bc2f0774c77",
+      "size": 195282,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/8d548874204102fe4d88ef12e3096bc2f0774c77"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/05",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "70480c6e5eff6514e859b3442a7cb6716a61258a",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/70480c6e5eff6514e859b3442a7cb6716a61258a"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/05/2013_05.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8aa9c2475258f3a250f37a67644ab546d165f7d",
+      "size": 9318046,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/b8aa9c2475258f3a250f37a67644ab546d165f7d"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/05/2013_05.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a9c7a0b1ea413007f5ffd3bc139cee731fb7bb8",
+      "size": 200488,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/8a9c7a0b1ea413007f5ffd3bc139cee731fb7bb8"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/06",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1d5372b355af655ba9ad04ce03393b23f4c1ba09",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/1d5372b355af655ba9ad04ce03393b23f4c1ba09"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/06/2013_06.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a7ed35600fa8aa748d66f852c74ad13f474296c",
+      "size": 8972532,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/2a7ed35600fa8aa748d66f852c74ad13f474296c"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/06/2013_06.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d0f42ed559e22392e02baf65eaf3d37500b3b2f",
+      "size": 201079,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/1d0f42ed559e22392e02baf65eaf3d37500b3b2f"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/07",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "07d13d73f0f0cac417d4f0b85bb3e04af0e04202",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/07d13d73f0f0cac417d4f0b85bb3e04af0e04202"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/07/2013_07.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fea3c68ae6504fd0a4f0f985f7b1a4f7edfa24a8",
+      "size": 9274986,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/fea3c68ae6504fd0a4f0f985f7b1a4f7edfa24a8"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/07/2013_07.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3f3fd195fc52fb2181a64ced747035c9fd844b8",
+      "size": 197098,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/c3f3fd195fc52fb2181a64ced747035c9fd844b8"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/08",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b8a842e5cbaa4bd4db9f95ea672e07856f8607f9",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/b8a842e5cbaa4bd4db9f95ea672e07856f8607f9"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/08/2013_08.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "efb22c009e1e85ca4c83e0f1bc84f09f4f6df9cf",
+      "size": 9253398,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/efb22c009e1e85ca4c83e0f1bc84f09f4f6df9cf"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/08/2013_08.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a1d51a7494147e42c4f9d36f8b3ca041db7109d",
+      "size": 213675,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/8a1d51a7494147e42c4f9d36f8b3ca041db7109d"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/09",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "521a250f984e8fd43f53eb7addba8811117d6dff",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/521a250f984e8fd43f53eb7addba8811117d6dff"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/09/2013_09.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e385a011545cb6fcd6a499be1c0d8e0e27b0fa8",
+      "size": 7971208,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/5e385a011545cb6fcd6a499be1c0d8e0e27b0fa8"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/09/2013_09.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f3ccb5f00efc3e9c729a43d1b7453b3e70cfb0d0",
+      "size": 204855,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/f3ccb5f00efc3e9c729a43d1b7453b3e70cfb0d0"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/10",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f75613eea2a475374e0dd315d5eee70479d42243",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/f75613eea2a475374e0dd315d5eee70479d42243"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/10/2013_10.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cbb599362691761657b8f17777dee9d51355638c",
+      "size": 9342473,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/cbb599362691761657b8f17777dee9d51355638c"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/10/2013_10.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "24dbeb13f578d8b19dec4b7444250ec72ddb05d1",
+      "size": 218117,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/24dbeb13f578d8b19dec4b7444250ec72ddb05d1"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/11",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a8c6152346f9b7f022bd789cbbbb0dd38fc30585",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/a8c6152346f9b7f022bd789cbbbb0dd38fc30585"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/11/2013_11.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b68683efdc54399a6c3ad00011eb784c3fb1d3f6",
+      "size": 8990201,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/b68683efdc54399a6c3ad00011eb784c3fb1d3f6"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/11/2013_11.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6ca1617cfb994fc238083fb51f31135f226aa50",
+      "size": 191165,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/b6ca1617cfb994fc238083fb51f31135f226aa50"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/12",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e21596e9f7b2274f61d5d9ee4e3b7ff145c6bf41",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/e21596e9f7b2274f61d5d9ee4e3b7ff145c6bf41"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/12/2013_12.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf0dc192d21c43d159c9f89539a24f1c13968e3c",
+      "size": 9182099,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/cf0dc192d21c43d159c9f89539a24f1c13968e3c"
+    },
+    {
+      "path": "Continental Europe/Germany/2013/12/2013_12.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6bc69541dde53c582e91f6755a6767ac157c998a",
+      "size": 192520,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/6bc69541dde53c582e91f6755a6767ac157c998a"
+    },
+    {
+      "path": "Continental Europe/Germany/2014",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "93118dff7735a34f734c004dff805da38e25054c",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/93118dff7735a34f734c004dff805da38e25054c"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/01",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b8182e2d9be6c56c4675d6e432def5205936f18c",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/b8182e2d9be6c56c4675d6e432def5205936f18c"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/01/2014_01.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4c0b0e97e516229141744efa1a073be82b189e1",
+      "size": 9235759,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/a4c0b0e97e516229141744efa1a073be82b189e1"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/01/2014_01.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d79df6d4b5ce153baeafeb5da0682edaaa28c0f4",
+      "size": 193006,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/d79df6d4b5ce153baeafeb5da0682edaaa28c0f4"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/02",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6923bdb331265643191bee5b1a21976fbbdf4a93",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/6923bdb331265643191bee5b1a21976fbbdf4a93"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/02/2014_02.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e27c1cc5d3ebd6748bfde2bc18267460c981c63",
+      "size": 7973800,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/8e27c1cc5d3ebd6748bfde2bc18267460c981c63"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/02/2014_02.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4200977a76c4d73065f869992cd38221689a431",
+      "size": 209539,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/d4200977a76c4d73065f869992cd38221689a431"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/03",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "00346c01c8627205393cc838029c7dac26624710",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/00346c01c8627205393cc838029c7dac26624710"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/03/2014_03.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b02ac44a66520727b9f4c82b59b504b8ef02a357",
+      "size": 9343264,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/b02ac44a66520727b9f4c82b59b504b8ef02a357"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/03/2014_03.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e15eb8dccc1a2c52b36cce6c217d65707527b85",
+      "size": 219045,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/4e15eb8dccc1a2c52b36cce6c217d65707527b85"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/04",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "62968984168a9231fbe6540c4aa1cd3f549173fc",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/62968984168a9231fbe6540c4aa1cd3f549173fc"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/04/2014_04.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd197181d00cbca6f239ab315bb694d2c536b8e2",
+      "size": 9054610,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/fd197181d00cbca6f239ab315bb694d2c536b8e2"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/04/2014_04.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1203b0c251ed0749d060260a884c6f577a0d01a",
+      "size": 231752,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/b1203b0c251ed0749d060260a884c6f577a0d01a"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/05",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "37feefe034046b79a08d1ed66ec4c1d8aca8eade",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/37feefe034046b79a08d1ed66ec4c1d8aca8eade"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/05/2014_05.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "147ccf8276bf351d9b8566b619340804f67ab164",
+      "size": 9373594,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/147ccf8276bf351d9b8566b619340804f67ab164"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/05/2014_05.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "74fc7b61c5b7d2a46bd2824e1ff804e9495e29e0",
+      "size": 237818,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/74fc7b61c5b7d2a46bd2824e1ff804e9495e29e0"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/06",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9436ed1af893c346a828a2dfd73ff394c3f10b0c",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/9436ed1af893c346a828a2dfd73ff394c3f10b0c"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/06/2014_06.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69e205d00ca7533317b12cc5cd25fcdf6dfce4c8",
+      "size": 9055287,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/69e205d00ca7533317b12cc5cd25fcdf6dfce4c8"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/06/2014_06.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c240e64032f063788ef52968f6431a6c03a8f0cb",
+      "size": 208877,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/c240e64032f063788ef52968f6431a6c03a8f0cb"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/07",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b04285826167da62f493390fe1a4cb16953e0a0b",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/b04285826167da62f493390fe1a4cb16953e0a0b"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/07/2014_07.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a074eb3ac6f3d49fa27790b6f4e937ca97297e1f",
+      "size": 9311215,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/a074eb3ac6f3d49fa27790b6f4e937ca97297e1f"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/07/2014_07.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4c22726c8612507b37cb2c905f82f1e63d590b7",
+      "size": 215257,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/d4c22726c8612507b37cb2c905f82f1e63d590b7"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/08",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "17aa3f752be05988f28fb91d1059b70a28a92fe2",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/17aa3f752be05988f28fb91d1059b70a28a92fe2"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/08/2014_08.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae7a2eba1bfdedefcbb23d3701e58a04a0dbd141",
+      "size": 9264783,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/ae7a2eba1bfdedefcbb23d3701e58a04a0dbd141"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/08/2014_08.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbd6391c13f63359300073ea11f20b6ac754b9a0",
+      "size": 238601,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/bbd6391c13f63359300073ea11f20b6ac754b9a0"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/09",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1b6c7b423a9e06d01b2eab7bd09081e8c17eddc4",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/1b6c7b423a9e06d01b2eab7bd09081e8c17eddc4"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/09/2014_09.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d56bc09ee2637bb3068bd04eabb978c0fd3980ba",
+      "size": 8985830,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/d56bc09ee2637bb3068bd04eabb978c0fd3980ba"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/09/2014_09.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da65427d76f27156ffd79333d4a0b3ac7bb96cc8",
+      "size": 251699,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/da65427d76f27156ffd79333d4a0b3ac7bb96cc8"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/10",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2afe4fbc61494e3ff135a59ba244155f4acdeed2",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/2afe4fbc61494e3ff135a59ba244155f4acdeed2"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/10/2014_10.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "70a1e30b71e863733b5b0a75d150b1f6c45c8a56",
+      "size": 9335721,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/70a1e30b71e863733b5b0a75d150b1f6c45c8a56"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/10/2014_10.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "091fbb518aea4f054fd04dd35b5e5a97e59fa9e9",
+      "size": 275791,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/091fbb518aea4f054fd04dd35b5e5a97e59fa9e9"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/11",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "765970647a7c7166ccc38df2aae205634812573f",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/765970647a7c7166ccc38df2aae205634812573f"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/11/2014_11.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dbfeea02cd2c89a2cda15757d741236845ac1971",
+      "size": 9020083,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/dbfeea02cd2c89a2cda15757d741236845ac1971"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/11/2014_11.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db8af7716a357a84779e9f3f2e9761ba67e05b43",
+      "size": 217903,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/db8af7716a357a84779e9f3f2e9761ba67e05b43"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/12",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "23aff112b6c4e27d7c1dc9b9825896bcf2c2bde7",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/23aff112b6c4e27d7c1dc9b9825896bcf2c2bde7"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/12/2014_12.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f6b965a31b223cdd2ef60caa409ea5a96b7ea52",
+      "size": 9197128,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/0f6b965a31b223cdd2ef60caa409ea5a96b7ea52"
+    },
+    {
+      "path": "Continental Europe/Germany/2014/12/2014_12.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2cb26d7921d482466703c9cb75345685e24e8d2a",
+      "size": 187176,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/2cb26d7921d482466703c9cb75345685e24e8d2a"
+    },
+    {
+      "path": "Continental Europe/Germany/2015",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c88d0783b72bb966e60bc7d7719d714cf33da3b2",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/c88d0783b72bb966e60bc7d7719d714cf33da3b2"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/01",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "62748b47f23efcc0713166df9014f2afef434ec6",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/62748b47f23efcc0713166df9014f2afef434ec6"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/01/2015_01.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "472503c8d087bbf580b41250cae40b56f654997a",
+      "size": 9260212,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/472503c8d087bbf580b41250cae40b56f654997a"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/01/2015_01.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e8c38b7b455090e11b7752278d6f1b7f313548f",
+      "size": 187479,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/9e8c38b7b455090e11b7752278d6f1b7f313548f"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/02",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c77f381822ae75e0f2dfc0ce380a89de019d63e5",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/c77f381822ae75e0f2dfc0ce380a89de019d63e5"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/02/2015_02.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7cab5b4ec2ee7b6d7739d09f779d22d319d816b8",
+      "size": 8134879,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/7cab5b4ec2ee7b6d7739d09f779d22d319d816b8"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/02/2015_02.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89d2a2d17ce05e8517e74159b62380ac66af2625",
+      "size": 191210,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/89d2a2d17ce05e8517e74159b62380ac66af2625"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/03",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "aa7aeb24e2f5e3597ff0cdd1b8929b0735f0c52c",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/aa7aeb24e2f5e3597ff0cdd1b8929b0735f0c52c"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/03/2015_03.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "573a896c5d2c33383a189ab5fdd5f798d1ce3cb5",
+      "size": 9366438,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/573a896c5d2c33383a189ab5fdd5f798d1ce3cb5"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/03/2015_03.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36dc6f0658eff7f0904e86df32d4de4c1b176589",
+      "size": 218125,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/36dc6f0658eff7f0904e86df32d4de4c1b176589"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/04",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "28bf347854835f171a380c01b7d1cb6c24992954",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/28bf347854835f171a380c01b7d1cb6c24992954"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/04/2015_04.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eae934cc1976527262903ca3ce7c8f43b05c41f0",
+      "size": 6946050,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/eae934cc1976527262903ca3ce7c8f43b05c41f0"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/04/2015_04.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae6fb7f63faff1573c5d02ca956807156db57f26",
+      "size": 146777,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/ae6fb7f63faff1573c5d02ca956807156db57f26"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/05",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "52cf9882d8983f517db05e0c436aa1b3fa3858d0",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/52cf9882d8983f517db05e0c436aa1b3fa3858d0"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/05/2015_05.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "843ebb03796f1e3d45f4e5790d9829413ca358e4",
+      "size": 6591567,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/843ebb03796f1e3d45f4e5790d9829413ca358e4"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/05/2015_05.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "155778ad320638f139a6a4dfe992d4587eb00cde",
+      "size": 120678,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/155778ad320638f139a6a4dfe992d4587eb00cde"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/06",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1d036743277d511b2c643d48998a759ecfef591b",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/1d036743277d511b2c643d48998a759ecfef591b"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/06/2015_06.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19f12676f5b0ae3ce1181819950eb161b717143e",
+      "size": 6979651,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/19f12676f5b0ae3ce1181819950eb161b717143e"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/06/2015_06.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f677f1b202bf61d2e73a1d1908b79d05d8d55f6",
+      "size": 141171,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/5f677f1b202bf61d2e73a1d1908b79d05d8d55f6"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/07",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "74e9938fcd3309fc409c60044f849bd54789e069",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/74e9938fcd3309fc409c60044f849bd54789e069"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/07/2015_07.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2757384d87c86ed1863bd08ae2facab6beeef2cc",
+      "size": 9348150,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/2757384d87c86ed1863bd08ae2facab6beeef2cc"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/07/2015_07.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "108f69d49307dab94eee5d121941197d9a5b1f6c",
+      "size": 202817,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/108f69d49307dab94eee5d121941197d9a5b1f6c"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/08",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "928ac3e496c3a41c913d17fa03c1651780034e01",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/928ac3e496c3a41c913d17fa03c1651780034e01"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/08/2015_08.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "919d1e0b5affaaacd4b625e6093a0499eb1da74b",
+      "size": 9293352,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/919d1e0b5affaaacd4b625e6093a0499eb1da74b"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/08/2015_08.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67c417af8b8408ae60fbf485dda9de3cf8493fe6",
+      "size": 209774,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/67c417af8b8408ae60fbf485dda9de3cf8493fe6"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/09",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1da13017b5701417743db2e96322c4676c998ea7",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/1da13017b5701417743db2e96322c4676c998ea7"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/09/2015_09.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62c86b784367ec4b8485b312a659c479563a544f",
+      "size": 9085101,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/62c86b784367ec4b8485b312a659c479563a544f"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/09/2015_09.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8b4d48fd5b1e1829151a1cd0e46074fbae65de5",
+      "size": 238770,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/b8b4d48fd5b1e1829151a1cd0e46074fbae65de5"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/10",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "750728efa1d98a13e8f9e821e60dd71c909d56f8",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/750728efa1d98a13e8f9e821e60dd71c909d56f8"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/10/2015_10.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5a6756de7645102558635b15f3694584a432e2b",
+      "size": 9290864,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/d5a6756de7645102558635b15f3694584a432e2b"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/10/2015_10.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42c2979c259e29177f2f2d4d94bd2e0242e9a2c9",
+      "size": 250346,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/42c2979c259e29177f2f2d4d94bd2e0242e9a2c9"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/11",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e04cfa825f5a1c35d7b0aba1465676e668053261",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/e04cfa825f5a1c35d7b0aba1465676e668053261"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/11/2015_11.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce9ecff8915277ef0ac6652a9a51d217359bac58",
+      "size": 9031799,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/ce9ecff8915277ef0ac6652a9a51d217359bac58"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/11/2015_11.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "976fd316d97a1bc1c58341bba9bfe2f7e932d947",
+      "size": 231049,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/976fd316d97a1bc1c58341bba9bfe2f7e932d947"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/12",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6d276631e9222b1c6c13f1f5d33944fe8b19be12",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/6d276631e9222b1c6c13f1f5d33944fe8b19be12"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/12/2015_12.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c485c6487cd15674419efa5a8e5f385d8d97c4c6",
+      "size": 9206292,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/c485c6487cd15674419efa5a8e5f385d8d97c4c6"
+    },
+    {
+      "path": "Continental Europe/Germany/2015/12/2015_12.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1dc3885064ea6bd286fadd97576c92278e0d4b17",
+      "size": 208682,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/1dc3885064ea6bd286fadd97576c92278e0d4b17"
+    },
+    {
+      "path": "Continental Europe/Germany/2016",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a9df3e76cc91388214142420f45e02e4d24493ac",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/a9df3e76cc91388214142420f45e02e4d24493ac"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/01",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d97510180e62b815344a948fdd849ee5a1af51f6",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/d97510180e62b815344a948fdd849ee5a1af51f6"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/01/2016_01.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ec49d049559b3a66fc113fdf3c79bf486de401b",
+      "size": 9245998,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/3ec49d049559b3a66fc113fdf3c79bf486de401b"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/01/2016_01.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02e0a7bfa2957bc0be19add7f441162e569d0c5b",
+      "size": 189674,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/02e0a7bfa2957bc0be19add7f441162e569d0c5b"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/02",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "25ce9878c00ad2c53597442a86a30b89f5cb853e",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/25ce9878c00ad2c53597442a86a30b89f5cb853e"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/02/2016_02.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a8cbf82d9405a51bb0aa3065fe87ed97d6c4690",
+      "size": 8153703,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/2a8cbf82d9405a51bb0aa3065fe87ed97d6c4690"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/02/2016_02.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b920578d755b9bc0d6f1a1a73d84cb39f404bdbc",
+      "size": 182250,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/b920578d755b9bc0d6f1a1a73d84cb39f404bdbc"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/03",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e4df924414abf2031710a5b1700e7996f5a209f3",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/e4df924414abf2031710a5b1700e7996f5a209f3"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/03/2016_03.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "028ede8a0c31026d5cefd602a53da493365705fa",
+      "size": 9343329,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/028ede8a0c31026d5cefd602a53da493365705fa"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/03/2016_03.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27c71e8c883091b4d377437ca9e33ebdd51be1cb",
+      "size": 200923,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/27c71e8c883091b4d377437ca9e33ebdd51be1cb"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/04",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4048c8f501176623a747a19bad4130f209984706",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/4048c8f501176623a747a19bad4130f209984706"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/04/2016_04.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52aca84814365605f39d25a1251055530e1dcbe6",
+      "size": 9107371,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/52aca84814365605f39d25a1251055530e1dcbe6"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/04/2016_04.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "baa5600adbec9c6001535d6e1b571312d974d67f",
+      "size": 223881,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/baa5600adbec9c6001535d6e1b571312d974d67f"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/05",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7cfcb68437e596e410789f6820801b47a352c1d8",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/7cfcb68437e596e410789f6820801b47a352c1d8"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/05/2016_05.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d1f0cd041d56af286439c28f845f409c4fea158",
+      "size": 9406596,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/9d1f0cd041d56af286439c28f845f409c4fea158"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/05/2016_05.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b80084b97c9795a13347c0034848f0c4ffe1070",
+      "size": 226712,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/5b80084b97c9795a13347c0034848f0c4ffe1070"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/06",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b7bc26cf759d133cfaf182a607269e5561f6bf05",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/b7bc26cf759d133cfaf182a607269e5561f6bf05"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/06/2016_06.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a79b27bce0dff6aa6222ccc647ddf33578ac019",
+      "size": 9097792,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/8a79b27bce0dff6aa6222ccc647ddf33578ac019"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/06/2016_06.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f0dc4224f64c504aa5da2ac9279d5ffa77bf99c",
+      "size": 230417,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/4f0dc4224f64c504aa5da2ac9279d5ffa77bf99c"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/07",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2e75bd007edea581794039d4f64dc272e48f0b56",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/2e75bd007edea581794039d4f64dc272e48f0b56"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/07/2016_07.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83f22d92358db649133a295da0c1aafeb713232a",
+      "size": 9338214,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/83f22d92358db649133a295da0c1aafeb713232a"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/07/2016_07.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e75e1c2a5b82f3a8a0c1bb5a3193f653cac9f26c",
+      "size": 198240,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/e75e1c2a5b82f3a8a0c1bb5a3193f653cac9f26c"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/08",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4490601e18af4c0f083d7909e30637ce6d282c20",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/4490601e18af4c0f083d7909e30637ce6d282c20"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/08/2016_08.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a7ae8f3519379188bb1d1fbed2b74e12aeaace9",
+      "size": 9333172,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/4a7ae8f3519379188bb1d1fbed2b74e12aeaace9"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/08/2016_08.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54de863b11608940f5d294fce475a6d7aee23263",
+      "size": 223692,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/54de863b11608940f5d294fce475a6d7aee23263"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/09",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c6362c08ebc011f705eb1f581f3e1dbbfa9f5e42",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/c6362c08ebc011f705eb1f581f3e1dbbfa9f5e42"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/09/2016_09.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e89e722ae9a5eb92fc2b25ddf561aa26bd24c3a",
+      "size": 9111746,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/3e89e722ae9a5eb92fc2b25ddf561aa26bd24c3a"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/09/2016_09.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "516e7c4ad03f3480f467c1aae130b8a5680c7182",
+      "size": 241311,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/516e7c4ad03f3480f467c1aae130b8a5680c7182"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/10",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b9624b2d1091c6e2d7d84dbdb2e086744ee5d793",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/b9624b2d1091c6e2d7d84dbdb2e086744ee5d793"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/10/2016_10.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9135507fd3432c9589543004a5716e9346fc422b",
+      "size": 9381027,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/9135507fd3432c9589543004a5716e9346fc422b"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/10/2016_10.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b5b10cd40dbc2ff13efb71c86ae556a87aafa695",
+      "size": 261402,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/b5b10cd40dbc2ff13efb71c86ae556a87aafa695"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/11",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "82a6cc3b79c2874dd8c64f49e6cab11b61c2a5f4",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/82a6cc3b79c2874dd8c64f49e6cab11b61c2a5f4"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/11/2016_11.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54674a34c164a8e8ff79e9b1381f7c38ba60ddfe",
+      "size": 9032775,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/54674a34c164a8e8ff79e9b1381f7c38ba60ddfe"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/11/2016_11.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f3e2dfb80b9ce108033731c50f6c4fb4ff0e7066",
+      "size": 214005,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/f3e2dfb80b9ce108033731c50f6c4fb4ff0e7066"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/12",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "82e6dee383bcbcda8c954e63ba35408022fcf6fa",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/82e6dee383bcbcda8c954e63ba35408022fcf6fa"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/12/2016_12.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae276c23947a66c0d1144a80121dac534b1b2094",
+      "size": 9251628,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/ae276c23947a66c0d1144a80121dac534b1b2094"
+    },
+    {
+      "path": "Continental Europe/Germany/2016/12/2016_12.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "747c79a4422322d28e985d723faa47b3bb731373",
+      "size": 190780,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/747c79a4422322d28e985d723faa47b3bb731373"
+    },
+    {
+      "path": "Continental Europe/Germany/2017",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f4a3ddda4d7d40fcf3f1fd7746d8c8538b95645a",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/f4a3ddda4d7d40fcf3f1fd7746d8c8538b95645a"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/01",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b6ecc4f831762e0f29ade3f8da7fccd1287cfce6",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/b6ecc4f831762e0f29ade3f8da7fccd1287cfce6"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/01/2017_01.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92c04a55b3f1bdc6cd3f2ad7f1d204634eae2b33",
+      "size": 8844614,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/92c04a55b3f1bdc6cd3f2ad7f1d204634eae2b33"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/01/2017_01.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36d1189a900ef6c260688bfc468e87cde7a3398a",
+      "size": 185611,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/36d1189a900ef6c260688bfc468e87cde7a3398a"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/02",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1c69a327bf0cd5c5e541514a2c7dd64c22fd5d97",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/1c69a327bf0cd5c5e541514a2c7dd64c22fd5d97"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/02/2017_02.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a6fae5035756c4915ae606986ae41da22442861",
+      "size": 6945023,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/9a6fae5035756c4915ae606986ae41da22442861"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/02/2017_02.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d15745d596fdcb27e1be70a91124e285e3068f8a",
+      "size": 209663,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/d15745d596fdcb27e1be70a91124e285e3068f8a"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/03",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a6eaaa30e4022326b1762f339d68cca184c95c8f",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/a6eaaa30e4022326b1762f339d68cca184c95c8f"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/03/2017_03.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "150263b3040d511e5fe128308d0acecbeeaa2dad",
+      "size": 8274104,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/150263b3040d511e5fe128308d0acecbeeaa2dad"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/03/2017_03.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "560d55fbc730a2391661b94cea000d65246bf4ad",
+      "size": 207175,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/560d55fbc730a2391661b94cea000d65246bf4ad"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/04",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1487205b7ffd93a0fe27515628b6fdc4ae846d82",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/1487205b7ffd93a0fe27515628b6fdc4ae846d82"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/04/2017_04.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "879dc166769b2fa209b27b386ef31a44a3dd81d0",
+      "size": 9088189,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/879dc166769b2fa209b27b386ef31a44a3dd81d0"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/04/2017_04.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a8e39ab8457d99b5484cf5d0d2b19ab36d1b83c",
+      "size": 208176,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/7a8e39ab8457d99b5484cf5d0d2b19ab36d1b83c"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/05",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "25a6bd64bfe7d0954f423ae823dc6ba8e2a06db6",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/25a6bd64bfe7d0954f423ae823dc6ba8e2a06db6"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/05/2017_05.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b6c827748d718ab964eeb190996247ce75bfa17",
+      "size": 9432359,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/8b6c827748d718ab964eeb190996247ce75bfa17"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/05/2017_05.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f60a6281508ca5d2b299fff9a43efaf5b26498f1",
+      "size": 204232,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/f60a6281508ca5d2b299fff9a43efaf5b26498f1"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/06",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ef9968fbf1b286125f7e08e25fbfcb7b31f7d8aa",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/ef9968fbf1b286125f7e08e25fbfcb7b31f7d8aa"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/06/2017_06.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9012e65491f60f9a99187c5f37b678d37686c9cc",
+      "size": 9085058,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/9012e65491f60f9a99187c5f37b678d37686c9cc"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/06/2017_06.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a791668c12db23de947cef72791984bb8f685502",
+      "size": 202856,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/a791668c12db23de947cef72791984bb8f685502"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/07",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "02838d7e00c8bb8db34642eb56860fc8c1fec802",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/02838d7e00c8bb8db34642eb56860fc8c1fec802"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/07/2017_07.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "627f53dc44f9e5371c15d58f15dcb47de9919ffb",
+      "size": 9351197,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/627f53dc44f9e5371c15d58f15dcb47de9919ffb"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/07/2017_07.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09a488b559224532f86847581a81898993da5e01",
+      "size": 203924,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/09a488b559224532f86847581a81898993da5e01"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/08",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "91e21785b9e7f4efd885305459335f8c421eaed8",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/91e21785b9e7f4efd885305459335f8c421eaed8"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/08/2017_08.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d7feb3cb2c47cc51af274b03f7c0d4f44b99a7da",
+      "size": 9337416,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/d7feb3cb2c47cc51af274b03f7c0d4f44b99a7da"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/08/2017_08.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "872be95a2be9d451b4dbe280dbb9984e490c4b47",
+      "size": 203002,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/872be95a2be9d451b4dbe280dbb9984e490c4b47"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/09",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e99fcfdad20ea636c201455d465ef97b4992262a",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/e99fcfdad20ea636c201455d465ef97b4992262a"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/09/2017_09.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b0d87e898268a2e5f03e8f31d7775cca1678c921",
+      "size": 9084117,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/b0d87e898268a2e5f03e8f31d7775cca1678c921"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/09/2017_09.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa6c0d6415fceb3080769dd20e8779fc16fdfee4",
+      "size": 206313,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/aa6c0d6415fceb3080769dd20e8779fc16fdfee4"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/10",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "35db0cd9836d0ea96bd1ed268392dc47a47b3659",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/35db0cd9836d0ea96bd1ed268392dc47a47b3659"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/10/2017_10.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "38dfb6eb493ce97b744d97e4cf2800656cfc64a3",
+      "size": 9394433,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/38dfb6eb493ce97b744d97e4cf2800656cfc64a3"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/10/2017_10.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9281f1b77e64089dabfa4ef608de733b44cd96b",
+      "size": 205541,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/b9281f1b77e64089dabfa4ef608de733b44cd96b"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/11",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "06ae4717264d238f380954b8b17c332affc18ca5",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/06ae4717264d238f380954b8b17c332affc18ca5"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/11/2017_11.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "197ab360a36174ea5b2d4a7c94a6a267864f658c",
+      "size": 9011857,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/197ab360a36174ea5b2d4a7c94a6a267864f658c"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/11/2017_11.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9118e1e337a6406744b997b7f565d62abdfc2afc",
+      "size": 206550,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/9118e1e337a6406744b997b7f565d62abdfc2afc"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/12",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ae2ca09ecc3a692416d4f6bf39915017968237cb",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/ae2ca09ecc3a692416d4f6bf39915017968237cb"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/12/2017_12.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4a5aeef580dc840515d661979b49cdd16ec3829",
+      "size": 9239307,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/a4a5aeef580dc840515d661979b49cdd16ec3829"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/12/2017_12.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "000099938464a4e347a370d1d893459c35ced4f4",
+      "size": 208421,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/000099938464a4e347a370d1d893459c35ced4f4"
+    },
+    {
+      "path": "Continental Europe/Germany/2017/2017.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f8987a5437b0904f39267dae2aa1eab005a742f",
+      "size": 30631354,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/4f8987a5437b0904f39267dae2aa1eab005a742f"
+    },
+    {
+      "path": "Continental Europe/Germany/2018",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2a6a74cac42bb1d8cc5cae399e64576ba8c45c84",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/2a6a74cac42bb1d8cc5cae399e64576ba8c45c84"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/01",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "dd9da88c8a3a8de14ba60cd2a2f0e37500b97545",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/dd9da88c8a3a8de14ba60cd2a2f0e37500b97545"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/01/2018_01.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bf9d6b0ee7e1dadc070ccc419e685c8292b313d6",
+      "size": 9266004,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/bf9d6b0ee7e1dadc070ccc419e685c8292b313d6"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/01/2018_01.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03f695e5605a3349bf70efb1d7e1f251aad14d0e",
+      "size": 208961,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/03f695e5605a3349bf70efb1d7e1f251aad14d0e"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/02",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3faa839f993f8b188d969c048d0085f2949c0a95",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/3faa839f993f8b188d969c048d0085f2949c0a95"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/02/2018_02.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be642542555b89c3a5cb8f2ef025f29656d3f359",
+      "size": 8122859,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/be642542555b89c3a5cb8f2ef025f29656d3f359"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/02/2018_02.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10eec533ca6f685397ab5e5afd21f77b70c65a2d",
+      "size": 209850,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/10eec533ca6f685397ab5e5afd21f77b70c65a2d"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/03",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b12f2913eda51052534219ef888f2d5919338a38",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/b12f2913eda51052534219ef888f2d5919338a38"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/03/2018_03.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5539c9f5c56586ce9cde6dea7f784096c5a0b08a",
+      "size": 9321016,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/5539c9f5c56586ce9cde6dea7f784096c5a0b08a"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/03/2018_03.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6211dd9867902655974a76df0fec666fe7ee545f",
+      "size": 209528,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/6211dd9867902655974a76df0fec666fe7ee545f"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/04",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "46fd41a1a7ce4f035966b51df2f25c3c97e5deab",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/46fd41a1a7ce4f035966b51df2f25c3c97e5deab"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/04/2018_04.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d3f0563a8a7a5d182b3a862882b3d8fe49170c8",
+      "size": 9109844,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/9d3f0563a8a7a5d182b3a862882b3d8fe49170c8"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/04/2018_04.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da0e0bd50b623f4bd47b67c989544e78ef8184c5",
+      "size": 218431,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/da0e0bd50b623f4bd47b67c989544e78ef8184c5"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/05",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e184ace72f5e81f5bfabfb669cc961336bdc117e",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/e184ace72f5e81f5bfabfb669cc961336bdc117e"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/05/2018_05.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "50cb1762ed58a979588bc7b79139a7056517fc1a",
+      "size": 9443564,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/50cb1762ed58a979588bc7b79139a7056517fc1a"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/05/2018_05.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "176031034278fe799d863708168979a6cfcdf378",
+      "size": 220767,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/176031034278fe799d863708168979a6cfcdf378"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/06",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "af40ebe3c7cb85f7759c04b3a98d82a0c1965d65",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/af40ebe3c7cb85f7759c04b3a98d82a0c1965d65"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/06/2018_06.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6af517eac38a5a51f04ba0b41f30846eb65c9e5",
+      "size": 9127657,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/e6af517eac38a5a51f04ba0b41f30846eb65c9e5"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/06/2018_06.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "acb66582a4ce168b122b5523492748ff7a800b34",
+      "size": 211700,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/acb66582a4ce168b122b5523492748ff7a800b34"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/07",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "75365df0b1383d84da330e73343263bd3b67f4f8",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/75365df0b1383d84da330e73343263bd3b67f4f8"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/07/2018_07.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c274901f9bc253f1edf4ddbf69937c7022c30582",
+      "size": 9365363,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/c274901f9bc253f1edf4ddbf69937c7022c30582"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/07/2018_07.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5facb81bb5cb3688a9d8a968b3c065e422810e6",
+      "size": 208440,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/a5facb81bb5cb3688a9d8a968b3c065e422810e6"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/08",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d2017259068ec6cb5c6c1700bbcb1cedda56fb7e",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/d2017259068ec6cb5c6c1700bbcb1cedda56fb7e"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/08/2018_08.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3380961980ae29c1f8b7cab027208589f1d71314",
+      "size": 9349734,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/3380961980ae29c1f8b7cab027208589f1d71314"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/08/2018_08.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bee28542b751a11f7371187c226207beef79c260",
+      "size": 209395,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/bee28542b751a11f7371187c226207beef79c260"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/09",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "46c485fb73017ea645eaf9e84f78ab128595eba7",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/46c485fb73017ea645eaf9e84f78ab128595eba7"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/09/2018_09.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "df8388f91a5c650ed6e493a2790632fa2d4cb6a1",
+      "size": 9084027,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/df8388f91a5c650ed6e493a2790632fa2d4cb6a1"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/09/2018_09.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c22b6aa3a428a077734aeb85e90176ba5de4843b",
+      "size": 212987,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/c22b6aa3a428a077734aeb85e90176ba5de4843b"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/10",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bcb0939a58fa912e04d1b71392697e01a0abbf3b",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/bcb0939a58fa912e04d1b71392697e01a0abbf3b"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/10/2018_10.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72b14b2bbe1a9664110e8032c1fad12802452ef0",
+      "size": 9396193,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/72b14b2bbe1a9664110e8032c1fad12802452ef0"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/10/2018_10.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dc182ccf57c5f97afee4126632565ee05e3e7532",
+      "size": 222716,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/dc182ccf57c5f97afee4126632565ee05e3e7532"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/11",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f5e81a955be164b66fd70fbeaab634322b635651",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/f5e81a955be164b66fd70fbeaab634322b635651"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/11/2018_11.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aeec3a745d313b3a010a44463c5bbdf76d08cb3c",
+      "size": 9053891,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/aeec3a745d313b3a010a44463c5bbdf76d08cb3c"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/11/2018_11.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f4315ab81de311ccc7090baa7345a7f37d0f0f7",
+      "size": 206996,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/9f4315ab81de311ccc7090baa7345a7f37d0f0f7"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/12",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a62ae1e315d37527b233790dc6c3b3e28baf980e",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/a62ae1e315d37527b233790dc6c3b3e28baf980e"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/12/2018_12.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1139e92099a43794e656628af33fdd33a2314bdd",
+      "size": 9248770,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/1139e92099a43794e656628af33fdd33a2314bdd"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/12/2018_12.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "11799766992ec75371f287c902225974be2faf11",
+      "size": 207665,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/11799766992ec75371f287c902225974be2faf11"
+    },
+    {
+      "path": "Continental Europe/Germany/2018/2018.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16a3cbaae949dede3eddb655d3d661349407273f",
+      "size": 33786708,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/16a3cbaae949dede3eddb655d3d661349407273f"
+    },
+    {
+      "path": "Continental Europe/Germany/2019",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6cbaa7ca712cc082a3eba9dafc2bcf3ae2cecd71",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/6cbaa7ca712cc082a3eba9dafc2bcf3ae2cecd71"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/01",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "43546ea4b56a3700423f825c2bf7bf49c60d7205",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/43546ea4b56a3700423f825c2bf7bf49c60d7205"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/01/2019_01.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d303cf3be7aad1889c919c0f969098ba6820e505",
+      "size": 9232964,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/d303cf3be7aad1889c919c0f969098ba6820e505"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/01/2019_01.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3656b36a94fd6e65689328cf65788dd764dea064",
+      "size": 208435,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/3656b36a94fd6e65689328cf65788dd764dea064"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/02",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d1e4b65822f9c4c99e347bee502f41a1fac0bd58",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/d1e4b65822f9c4c99e347bee502f41a1fac0bd58"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/02/2019_02.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a41a211dd1e6276d134cc7f9118cc16c7644418c",
+      "size": 8098870,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/a41a211dd1e6276d134cc7f9118cc16c7644418c"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/02/2019_02.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62faa8a4b9e3b8c07753607820420684e776da4c",
+      "size": 217053,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/62faa8a4b9e3b8c07753607820420684e776da4c"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/03",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "973b3bb4b7284e4981add1fc532acc78c3a7e4fb",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/973b3bb4b7284e4981add1fc532acc78c3a7e4fb"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/03/2019_03.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b97445c2bc80eaec1febbd265df9cdd6383a86a",
+      "size": 9338664,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/0b97445c2bc80eaec1febbd265df9cdd6383a86a"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/03/2019_03.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "551e8f4c2660a281d1adebeb3e5daa0137408b08",
+      "size": 218338,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/551e8f4c2660a281d1adebeb3e5daa0137408b08"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/04",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "15d662e03072aac829f8ce6987aede4f2e859579",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/15d662e03072aac829f8ce6987aede4f2e859579"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/04/2019_04.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1f50f5edfebce5a0b96e940234e64d64136dfd1",
+      "size": 8980226,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/b1f50f5edfebce5a0b96e940234e64d64136dfd1"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/04/2019_04.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb7783a8aef8da4cb766711a1c3dd12263b7aa26",
+      "size": 212259,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/eb7783a8aef8da4cb766711a1c3dd12263b7aa26"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/05",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e787237b55b5ae4e192f71fdafe10aaf6af2be5a",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/e787237b55b5ae4e192f71fdafe10aaf6af2be5a"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/05/2019_05.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "71610fe82af3b9a892f5ff5a49de8d35fa8f510a",
+      "size": 9219918,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/71610fe82af3b9a892f5ff5a49de8d35fa8f510a"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/05/2019_05.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5c71dc9c696d7df00421f4e64a0f2a78283d436",
+      "size": 217256,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/d5c71dc9c696d7df00421f4e64a0f2a78283d436"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/06",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cec8b48b8a3a91d49f39e2092721e5d3b6ed7263",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/cec8b48b8a3a91d49f39e2092721e5d3b6ed7263"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/06/2019_06.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d42c30fa0088247ee9e96025dd6780eb4951605",
+      "size": 8702164,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/5d42c30fa0088247ee9e96025dd6780eb4951605"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/06/2019_06.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f13262cd2f26f86d85bf9f40e16ffd71d63fe06",
+      "size": 210918,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/5f13262cd2f26f86d85bf9f40e16ffd71d63fe06"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/07",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6fefe4a2c93315f39f69edcd1f5f3b7b8d5d8d78",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/6fefe4a2c93315f39f69edcd1f5f3b7b8d5d8d78"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/07/2019_07.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f9fc93c8d0dc536c599eb96697670ff9261be466",
+      "size": 8074868,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/f9fc93c8d0dc536c599eb96697670ff9261be466"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/07/2019_07.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1199aaf30c6065d3521f59a330cc85fee0719714",
+      "size": 177486,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/1199aaf30c6065d3521f59a330cc85fee0719714"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/08",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "09381f5ea4f3e2f1850c2030e7ea42cce256d888",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/09381f5ea4f3e2f1850c2030e7ea42cce256d888"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/08/2019_08.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de68e2eecea570a785920c9ef7bc1760539d794c",
+      "size": 9277851,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/de68e2eecea570a785920c9ef7bc1760539d794c"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/08/2019_08.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59c6c95e9b9f6439e4960ab2bcd711ef4cccc44b",
+      "size": 217245,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/59c6c95e9b9f6439e4960ab2bcd711ef4cccc44b"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/09",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "18db44ec30407fdbd3720503f7bf754de7cf9830",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/18db44ec30407fdbd3720503f7bf754de7cf9830"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/09/2019_09.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4978fdffc81f5694dabec1383a68abd8c7dc4ea9",
+      "size": 8959951,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/4978fdffc81f5694dabec1383a68abd8c7dc4ea9"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/09/2019_09.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7303a9762485c1da925376251da63c51ec0a5ad",
+      "size": 211779,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/f7303a9762485c1da925376251da63c51ec0a5ad"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/10",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ba5224af3d751455d3de5d9c824f9713ec49e769",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/ba5224af3d751455d3de5d9c824f9713ec49e769"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/10/2019_10.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9fc21af03ab63310ae605dc4eab4d961af99d49",
+      "size": 8650645,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/c9fc21af03ab63310ae605dc4eab4d961af99d49"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/10/2019_10.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84cb1924339a0648038579b9aca39fff640eadc4",
+      "size": 197696,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/84cb1924339a0648038579b9aca39fff640eadc4"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/11",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d944c470b3bfed3c32421d0bad6a9b704f9d15ba",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/d944c470b3bfed3c32421d0bad6a9b704f9d15ba"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/11/2019_11.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4969d405f7a8b8e189852e9f707d43005d380878",
+      "size": 8856712,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/4969d405f7a8b8e189852e9f707d43005d380878"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/11/2019_11.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b3fd18f5e50f362054b550d3d78c52ab763cfeca",
+      "size": 203890,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/b3fd18f5e50f362054b550d3d78c52ab763cfeca"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/12",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e88a5ef9c26b78ae74b9a2f679192ea3f282f8d3",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/e88a5ef9c26b78ae74b9a2f679192ea3f282f8d3"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/12/2019_12.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a27061defd69c73e9b30fa4e14ac08fdb04571c8",
+      "size": 9098843,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/a27061defd69c73e9b30fa4e14ac08fdb04571c8"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/12/2019_12.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e469d627c7392d32d9a3e5d1be22c11578ca05a6",
+      "size": 207830,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/e469d627c7392d32d9a3e5d1be22c11578ca05a6"
+    },
+    {
+      "path": "Continental Europe/Germany/2019/2019.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cccc47a03394dd51f087dc43ac5f543f2d218df6",
+      "size": 10865990,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/cccc47a03394dd51f087dc43ac5f543f2d218df6"
+    },
+    {
+      "path": "Continental Europe/Germany/2020",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0b64e72fa0cbb8edcb1d810623aedba61420556d",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/0b64e72fa0cbb8edcb1d810623aedba61420556d"
+    },
+    {
+      "path": "Continental Europe/Germany/2020/01",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f6046ba1e46b8f2b487d93d90825d7f878c85669",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/f6046ba1e46b8f2b487d93d90825d7f878c85669"
+    },
+    {
+      "path": "Continental Europe/Germany/2020/01/2020_01.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "337cdf98ed2aaa70ba7c2cda28ed6d915ead2fae",
+      "size": 9023509,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/337cdf98ed2aaa70ba7c2cda28ed6d915ead2fae"
+    },
+    {
+      "path": "Continental Europe/Germany/2020/01/2020_01.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c41f511bcd24ec6e71518bc5a711d7c8c530ec97",
+      "size": 204045,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/c41f511bcd24ec6e71518bc5a711d7c8c530ec97"
+    },
+    {
+      "path": "Continental Europe/Germany/2020/02",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "aab036e0d2810efd8aba82d3fb057af60e3a998e",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/aab036e0d2810efd8aba82d3fb057af60e3a998e"
+    },
+    {
+      "path": "Continental Europe/Germany/2020/02/2020_02.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "423a7eee19a628af58717c6109af4403d82c35e2",
+      "size": 7912194,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/423a7eee19a628af58717c6109af4403d82c35e2"
+    },
+    {
+      "path": "Continental Europe/Germany/2020/02/2020_02.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c67070ffc21565086a9227189960b00472a95605",
+      "size": 199108,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/c67070ffc21565086a9227189960b00472a95605"
+    },
+    {
+      "path": "Continental Europe/Germany/2020/03",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "66fb50051b0ed01bee3353cad20ec4476de1ddb9",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/66fb50051b0ed01bee3353cad20ec4476de1ddb9"
+    },
+    {
+      "path": "Continental Europe/Germany/2020/03/2020_03.csv.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d3f9d914b117cb06fe6b02d4c1e5c3eb2cc25f4",
+      "size": 8114410,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/7d3f9d914b117cb06fe6b02d4c1e5c3eb2cc25f4"
+    },
+    {
+      "path": "Continental Europe/Germany/2020/03/2020_03.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6fabbad8369e2868756409438695209a809ecba8",
+      "size": 184655,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/6fabbad8369e2868756409438695209a809ecba8"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "527737cc7f5e4a69a8b2ed52eb963d0085411d1a",
+      "size": 2541,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/527737cc7f5e4a69a8b2ed52eb963d0085411d1a"
+    },
+    {
+      "path": "scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d3aac7a780c619a0da59bf38fa6e5d0d84e7584d",
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/trees/d3aac7a780c619a0da59bf38fa6e5d0d84e7584d"
+    },
+    {
+      "path": "scripts/Data Cleaner - RTE - CE.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66fe7800a5403f93a44b86b869ede1e48db5d27b",
+      "size": 4029,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/66fe7800a5403f93a44b86b869ede1e48db5d27b"
+    },
+    {
+      "path": "scripts/Data Cleaner - TransnetBW - CE.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "049e9bb907ca6642996d5a061d2ed7efe29c94df",
+      "size": 6127,
+      "url": "https://api.github.com/repos/LRydin/Power-Grid-Frequency-Data/git/blobs/049e9bb907ca6642996d5a061d2ed7efe29c94df"
+    }
+  ],
+  "truncated": false
+}

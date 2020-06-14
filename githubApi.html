@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>use github api</title>
+  </head>
+  <body>
+    <script>
+      async function getRepoStructure(baseurl) {
+        const repoStructure_response = await fetch(baseurl);
+        const repoStructure = await repoStructure_response.json();
+
+        repoStructure.tree.forEach((branch) => {
+          if (branch.path.includes(".zip")) {
+            console.log(getGithubURLFromAPIPath(branch.path));
+          }
+        });
+      }
+
+      function getGithubURLFromAPIPath(apiPath) {
+        const apiPath_noSpace = apiPath.replace(" ", "%20");
+        const fileUrlHead = "https://github.com/LRydin/Power-Grid-Frequency-Data/raw/master/";
+        return fileUrlHead + apiPath_noSpace;
+      }
+
+      baseurl = "./output/output.json";
+      getRepoStructure(baseurl);
+    </script>
+  </body>
+</html>
