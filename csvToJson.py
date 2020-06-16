@@ -1,12 +1,13 @@
 import json
 import pandas as pd
 
-csvSourcePath01 = './sampleCSV/2017_12.csv'
-csvSourcePath02 = './sampleCSV/2014_10.csv'
-csvSourcePath03 = './sampleCSV/2018_05.csv'
+csvSourcePath00 = './sampleCSV/2017_12.csv'
+csvSourcePath01 = './sampleCSV/2014_10.csv'
+csvSourcePath02 = './sampleCSV/2018_05.csv'
 
 
-csvPathArr = [csvSourcePath01, csvSourcePath02, csvSourcePath03]
+csvPathArr = [csvSourcePath00, csvSourcePath01,
+              csvSourcePath02]
 
 for i in range(len(csvPathArr)):
     df = pd.read_csv(csvPathArr[i], names=['Time', 'Frequency'])
