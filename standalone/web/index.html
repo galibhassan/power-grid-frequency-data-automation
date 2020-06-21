@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Trace Files in OSF Folders</title>
+    <style>
+      * {
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+        margin: 0px;
+        border-radius: 3px;
+      }
+      body {
+        width: 600px;
+        height: 400px;
+        background-color: #745984;
+        /* border: 1px solid black; */
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+      }
+      .app-header {
+        font-size: 20px;
+        display: flex;
+        justify-content: flex-end;
+        background: #745984;
+        width: 100%;
+        height: 15%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        box-shadow: 1px 1px 15px 1px rgba(39, 39, 39, 0.335);
+      }
+      .label {
+        padding-right: 10px;
+      }
+      .form {
+        display: flex;
+        flex-direction: column;
+
+        justify-content: space-evenly;
+        height: 50%;
+        width: 70%;
+      }
+      .form-row {
+        display: flex;
+        align-items: baseline;
+        flex-direction: row;
+        justify-content: flex-end;
+      }
+      #makeJsonButton {
+        background: #cb6686;
+        border: none;
+        padding: 10px;
+      }
+      #makeJsonButton:hover {
+        background: #e9668f;
+        cursor: pointer;
+      }
+      #makeJsonButton:focus {
+        outline: none;
+      }
+      input {
+        border: none;
+        color: #745984;
+        padding: 5px;
+        width: 50%;
+      }
+      input:focus {
+        outline: none;
+        box-shadow: 1px 1px 15px 1px rgba(82, 42, 64, 0.904);
+        border: none;
+      }
+      .credits {
+        color: #897694;
+        font-size: 0.5rem;
+      }
+      .status {
+        position: absolute;
+        top: 19px;
+        left: 60px;
+      }
+      .status-image {
+        /* mix-blend-mode: multiply; */
+        width: 50px;
+        height: 50px;
+      }
+      .decoration-text {
+        position: absolute;
+        font-size: 15rem;
+        top: -30px;
+        left: -20px;
+        opacity: 0.1;
+        z-index: -100;
+      }
+    </style>
+    <script src="./eel.js"></script>
+  </head>
+  <body>
+    <div class="decoration-text">
+      OSF
+    </div>
+    <div class="app-header">
+      Trace Files in OSF Folders
+    </div>
+    <div class="status">
+      <img class="status-image status" src="./loadingLeo.gif" alt="loading" />
+      <img class="status-image status" src="./success.png" alt="success" />
+      <img class="status-image status" src="./error.png" alt="error" />
+    </div>
+    <div class="form">
+      <div class="form-row">
+        <div class="label">OSF Repo identifier</div>
+        <input id="repoIdentifier" type="text" spellcheck="false" />
+      </div>
+      <div class="form-row">
+        <div class="label">Folder identifier</div>
+        <input id="folderIdentifier" type="text" spellcheck="false" />
+      </div>
+      <div class="form-row">
+        <div class="label">Searching file-type</div>
+        <input id="searchingFileType" type="text" spellcheck="false" />
+      </div>
+      <div class="form-row">
+        <div class="label">Save to path (relative)</div>
+        <input id="jsonSavePath_rel" type="text" spellcheck="false" placeholder="e.g. ./valid_folder/outputFile.json" />
+      </div>
+
+      <button id="makeJsonButton">Make JSON</button>
+    </div>
+    <div class="credits">
+      Credits: Galib Hassan, University of Cologne
+    </div>
+  </body>
+
+  <script>
+    // make window unresizable
+    WINDOW_WIDTH = 620;
+    WINDOW_HEIGHT = 445;
+    window.addEventListener("resize", function () {
+      window.resizeTo(WINDOW_WIDTH, WINDOW_HEIGHT);
+    });
+
+    const repoIdentifier = document.getElementById("repoIdentifier");
+    const folderIdentifier = document.getElementById("folderIdentifier");
+    const makeJsonButton = document.getElementById("makeJsonButton");
+    const jsonSavePath_rel = document.getElementById("jsonSavePath_rel");
+    const searchingFileType = document.getElementById("searchingFileType");
+    const statusImages = document.getElementsByClassName("status-image");
+
+    // default values
+    repoIdentifier.value = "by5hu";
+    folderIdentifier.value = "5ec248d3b9daae00b4508576";
+    jsonSavePath_rel.value = "./OneSecondRes.json";
+    searchingFileType.value = ".csv";
+
+    Array.from(statusImages).forEach((statusImage) => {
+      statusImage.style.display = "none";
+    });
+
+    makeJsonButton.addEventListener("click", handleMakeJsonButton);
+
+    function handleMakeJsonButton(e) {
+      statusImages[0].style.display = "block";
+      statusImages[1].style.display = "none";
+      statusImages[2].style.display = "none";
+
+      osfCredentials = {
+        SEARCHED_FILE_EXTENSION: searchingFileType.value,
+        OSF_NODE_HANDLE: repoIdentifier.value,
+        DATA_WRAPPER_FOLDER_HANDLE: folderIdentifier.value,
+        // OUTPUT_JSON_PATH: "./output/OneSecondRes.json",
+        OUTPUT_JSON_PATH: jsonSavePath_rel.value,
+      };
+      console.log(osfCredentials);
+      eel.main_getRepoInfoOSFGUI(osfCredentials)((returnValFromPy) => {
+        console.log(returnValFromPy);
+        if (returnValFromPy === "success") {
+          statusImages[0].style.display = "none";
+          statusImages[1].style.display = "block";
+        } else if (returnValFromPy === "error") {
+          statusImages[0].style.display = "none";
+          statusImages[2].style.display = "block";
+        } else {
+          // do nothing
+        }
+      });
+    }
+  </script>
+</html>
