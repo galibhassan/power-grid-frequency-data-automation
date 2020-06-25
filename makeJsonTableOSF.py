@@ -1,6 +1,7 @@
 import json
 
 OUTPUT_JSON_PATH = './output/mewwwtableJsonOsf.json'
+OUTPUT_JSON_PATH_MONTHSORTED = './output/mewwwtableJsonOsf_MONTHSORTEDDDDDDDDDD.json'
 repoStructureJsonPath = "./output/output_pathsAndLinks.json"
 
 
@@ -129,6 +130,39 @@ def getNewMonth(month, downloadURL):
 
 
 tableJsonOSF = getRepoStructure(repoStructureJsonPath)
+
+# sort all months
+
+
+def getMonthSortedTableJsonOSF(unsortedTableJsonOSF):
+    for i in range(len(unsortedTableJsonOSF)):
+        # cu stands for current unsorted
+        cu_realm = unsortedTableJsonOSF[i]
+
+        for j in range(len(cu_realm['children'])):
+            cu_country = cu_realm['children'][j]
+
+            for k in range(len(cu_country["children"])):
+                cu_year = cu_country['children'][k]
+                cu_months = cu_year['children']
+
+                # we have to sort _year['children']
+                sorted_months = sorted(cu_months, key=sorter_months)
+
+                # replace unsorted part by sorted part
+                unsortedTableJsonOSF[i]['children'][j]['children'][k]['children'] = sorted_months
+
+    return unsortedTableJsonOSF
+
+
+def sorter_months(monthDict):
+    return int(monthDict["name"])
+
+
 outputJson = open(OUTPUT_JSON_PATH, 'w+')
 json.dump(tableJsonOSF, outputJson, indent=2)
+outputJson.close()
+
+outputJson = open(OUTPUT_JSON_PATH_MONTHSORTED, 'w+')
+json.dump(getMonthSortedTableJsonOSF(tableJsonOSF), outputJson, indent=2)
 outputJson.close()
