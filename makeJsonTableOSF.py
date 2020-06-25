@@ -2,7 +2,8 @@ import json
 
 OUTPUT_JSON_PATH = './output/mewwwtableJsonOsf.json'
 OUTPUT_JSON_PATH_MONTHSORTED = './output/mewwwtableJsonOsf_MONTHSORTEDDDDDDDDDD.json'
-repoStructureJsonPath = "./output/output_pathsAndLinks.json"
+OUTPUT_JSON_PATH_MONTHSORTED_MissingMonthsIncluded = './output/OUTPUT_JSON_PATH_MONTHSORTED_MissingMonthsIncluded.json'
+repoStructureJsonPath = "./output/ShouldInclude12Months.json"
 
 
 def getRepoStructure(repoStructureJsonPath):
@@ -159,10 +160,55 @@ def sorter_months(monthDict):
     return int(monthDict["name"])
 
 
+def getTableJsonWithMissingMonths(tableJsonWithoutMissingMonths):
+    months12 = ["01", "02", "03", "04", "05",
+                "06", "07", "08", "09", "10", "11", "12"]
+    for i in range(len(tableJsonWithoutMissingMonths)):
+        # cu stands for current
+        cu_realm = tableJsonWithoutMissingMonths[i]
+
+        for j in range(len(cu_realm['children'])):
+            cu_country = cu_realm['children'][j]
+
+            for k in range(len(cu_country["children"])):
+                cu_year = cu_country['children'][k]
+                cu_monthsDict = cu_year['children']
+
+                cu_monthsStrList = []
+                for h in range(len(cu_monthsDict)):
+                    cu_monthsStrList.append(cu_monthsDict[h]["name"])
+
+                currentMissingMonths = []
+                for m in range(len(months12)):
+
+                    if(months12[m] in cu_monthsStrList):
+                        pass
+                    else:
+                        currentMissingMonths.append(months12[m])
+
+                for n in range(len(currentMissingMonths)):
+                    cu_monthsDict.append({
+                        "name": currentMissingMonths[n],
+                        "children": []
+                    })
+
+                print('')
+                # tableJsonWithoutMissingMonths[i]['children'][j]['children'][k]['children'] = sorted_months
+    return tableJsonWithoutMissingMonths
+
+
+getTableJsonWithMissingMonths(getMonthSortedTableJsonOSF(tableJsonOSF))
+
+""" 
 outputJson = open(OUTPUT_JSON_PATH, 'w+')
 json.dump(tableJsonOSF, outputJson, indent=2)
 outputJson.close()
 
 outputJson = open(OUTPUT_JSON_PATH_MONTHSORTED, 'w+')
 json.dump(getMonthSortedTableJsonOSF(tableJsonOSF), outputJson, indent=2)
+outputJson.close()
+ """
+outputJson = open(OUTPUT_JSON_PATH_MONTHSORTED_MissingMonthsIncluded, 'w+')
+json.dump(getTableJsonWithMissingMonths(
+    getMonthSortedTableJsonOSF(tableJsonOSF)), outputJson, indent=2)
 outputJson.close()

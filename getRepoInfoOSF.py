@@ -7,10 +7,11 @@
 import requests
 import json
 
-SEARCHED_FILE_EXTENSION = ".csv"
-OSF_NODE_HANDLE = 'by5hu'
-DATA_WRAPPER_FOLDER_HANDLE = "5ec248d3b9daae00b4508576"
-OUTPUT_JSON_PATH = './output/OneSecondRes.json'
+SEARCHED_FILE_EXTENSION = ".zip"
+OSF_NODE_HANDLE = 'm43tg'
+DATA_WRAPPER_FOLDER_HANDLE = "5eecddad145b1a010652cf46"  # main
+# DATA_WRAPPER_FOLDER_HANDLE = "5eece6f576ebd80102cd8a6d"  # germany 2017
+OUTPUT_JSON_PATH = './output/ShouldInclude12Months.json'
 
 baseurl_osf = f'https://api.osf.io/v2/nodes/{OSF_NODE_HANDLE}/files/osfstorage/{DATA_WRAPPER_FOLDER_HANDLE}/'
 downloadInfoStorage = []
@@ -22,10 +23,27 @@ def getDictFromRequest(baseurl):
     return dict_json
 
 
+def appendNextPageDataToCurrent(currentStructure):
+
+    nextPageLink = currentStructure["links"]["next"]
+    if nextPageLink != None:
+        # i.e. there is a next page. send a get request there.
+        nextPageStructure = getDictFromRequest(nextPageLink)
+        currentStructure["data"] += nextPageStructure["data"]
+
+        # do the same for nextPage recursively
+        appendNextPageDataToCurrent(nextPageStructure)
+
+    else:
+        pass
+
+
 def getRepoStructure(baseurl):
     currentStructure = getDictFromRequest(baseurl)
+    appendNextPageDataToCurrent(currentStructure)
 
     currentSubStructures = currentStructure["data"]
+
     for i in range(len(currentSubStructures)):
 
         if currentSubStructures[i]['attributes']['kind'] == "folder":
